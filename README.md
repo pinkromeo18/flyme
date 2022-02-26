@@ -4,8 +4,8 @@ meme is memo
 ```
 query
 
-meme.js <-- new mode
-meme.js?file=aaaa.txt <-- rewrite mode
+meme.html <-- new mode
+meme.html?file=aaaa.txt <-- rewrite mode
 
 
 ```
