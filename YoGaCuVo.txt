@@ -26,4 +26,7 @@
 <script type="module" src="..." ></script>
 
 
+＃上部の画面がスティッキーになっていない。
 
+<div class="block full m4 sticky"> ...
+ .sticky追加
