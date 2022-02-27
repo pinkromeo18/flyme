@@ -78,7 +78,6 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
         path:file,
         page:1,
         per_page:1,
-        headers //<-------
       }
       var res = await o.req('GET '+u,opt)
       .catch(e=>void 0)
@@ -94,7 +93,7 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
     o.isfile=async (file,issummary)=>{
       file =file||'';//
       //sha
-      var res = await o.req('GET '+o.u+file,{headers}) //<-------
+      var res = await o.req('GET '+o.u+file)
       .catch(e=>void 0)
       if(!issummary) return res;
       if(!res) return res;
@@ -108,7 +107,7 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
       var res = await o.isfile(file);
       if(!res) return res;
       var {download_url} =res.data;
-      var dat = await fetch(download_url,{headers}).then(d=>d.text()) //<-------
+      var dat = await fetch(download_url,   {cache: "no-cache"}  ).then(d=>d.text())  //<-------------
       return dat;
     }
     o.setfile=async (dat,file)=>{
