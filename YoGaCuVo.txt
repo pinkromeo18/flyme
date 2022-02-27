@@ -120,3 +120,7 @@ githuapi.js
 
 ＃画像の再更新が行われない。
 　？？　DONT WORK？
+＃４０９エラーの見過ごしによる、保存されない状態
+　Failed to load resource: the server responded with a status of 409 ()
+　コンフリクトは回避できないので、通知して、あとからもう一度、保存してもらうようにする。
+　エラーを受け取った際に、バーの状態を停止するのがよい？
