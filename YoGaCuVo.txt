@@ -2,9 +2,11 @@
 
 
 
+
 ＃コードペン側とのアンマッチは？
 　コードペン側には、CSSとJSがある。
 　それぞれ、ベタ張り、しただけで問題ないようにする。
+
 
 
 ＃サイズの変更。最大サイズの決定。
@@ -12,15 +14,18 @@
 　サイズは、エディタ側を固定にしたい。
 　全体の見た目に関係するため、最優先。
 
+
 ＃画像の入れ込み
 　画像をドロップした時に、画像が入っていない。
+
 
 
 ＃デバッグの削除
 　loadEditor側
 　セーブ後、アップロードした時に、データがデバッグ画面にある。
 
-＃ファイルの最終型模索
+
+＃ある程度解決：ファイルの最終型模索
 　loadEditorは「loadEditor.js」に？
 　memeのエディタは「meme.js」に？
 　loadIndexは「loadIndex.js」に？
@@ -29,20 +34,22 @@
 　インポートとの兼ね合い。
 　インポート指定の場合は、それに関連するものは、モジュールを指定すれば良い。
 
-<script type="module" src="..." ></script>
+　<script type="module" src="..." ></script>
 
 　コードペンでは、import を指定すると自動的に module が追加されることを利用する。
-  import "https://pinkromeo18/pooling/pooling.js"
+　import "https://pinkromeo18/pooling/pooling.js"
 
-
-＃上部の画面がスティッキーになっていない。
+　loadMeme()は依然として、改善の余地があるため、コードペン側に残す。
+　それ以外は、ファイル化。
+＃解決：上部の画面がスティッキーになっていない。
 
 <div class="block full m4 sticky"> ...
  .sticky追加
-
-＃一番下のマージンが少ない
+　追加。
+＃解決：一番下のマージンが少ない
 　最小でも 80vh はほしい。
 
 .block:nth-last-of-type(1) {
     margin-bottom: 80vh;
 }
+　HTMLに直書きして、CSSを廃止
