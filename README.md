@@ -6,6 +6,10 @@ meme is memo
 - https://pinkromeo18.github.io/meme/gitapi.js
 
 ```
+<script type="module" src="https://pinkromeo18.github.io/meme/gitapi.js" ></script>
+```
+
+```
 query
 
 meme.html <-- new mode
