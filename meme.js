@@ -13,7 +13,7 @@
     var cep ='＃'
     var parent = fn.q(q)
     parent.dataset.meme="true";
-    var tag_ed = `<div contenteditable="plaintext-only" data-ed="true">${cep}</div>`
+    var tag_ed = `<div contenteditable="plaintext-only" data-ed="true" class="m4">${cep}</div>`  //<---------
     var tag_h1 = `<h1 data-title="true">${cep}</h1>`
     var title = fn.i3(tag_h1)
     title.textContent = fn.getTitle(dat)
