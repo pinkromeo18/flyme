@@ -1,3 +1,5 @@
+//no-cache header
+
 import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
 ;(function(root){
 
@@ -55,6 +57,13 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
     opt.t1= ''
     opt.t2= ''
     */
+    
+   /*use GET request*/
+   var headers = new Headers();
+   headers.append('pragma', 'no-cache');
+   headers.append('cache-control', 'no-cache');
+   /**/
+    
     var o=new Octokit({auth:opt.t1 + opt.t2})
     Object.assign(o,opt);
     o.req = o.request;
@@ -68,7 +77,8 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
       var opt ={
         path:file,
         page:1,
-        per_page:1
+        per_page:1,
+        headers //<-------
       }
       var res = await o.req('GET '+u,opt)
       .catch(e=>void 0)
@@ -84,7 +94,7 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
     o.isfile=async (file,issummary)=>{
       file =file||'';//
       //sha
-      var res = await o.req('GET '+o.u+file)
+      var res = await o.req('GET '+o.u+file,{headers}) //<-------
       .catch(e=>void 0)
       if(!issummary) return res;
       if(!res) return res;
@@ -98,12 +108,7 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
       var res = await o.isfile(file);
       if(!res) return res;
       var {download_url} =res.data;
-      /**/
-      var headers = new Headers();
-      headers.append('pragma', 'no-cache');
-      headers.append('cache-control', 'no-cache');
-      /**/
-      var dat = await fetch(download_url,{headers}).then(d=>d.text())
+      var dat = await fetch(download_url,{headers}).then(d=>d.text()) //<-------
       return dat;
     }
     o.setfile=async (dat,file)=>{
