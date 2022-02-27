@@ -25,8 +25,18 @@
 
 <script type="module" src="..." ></script>
 
+　コードペンでは、import を指定すると自動的に module が追加されることを利用する。
+  import "https://pinkromeo18/pooling/pooling.js"
+
 
 ＃上部の画面がスティッキーになっていない。
 
 <div class="block full m4 sticky"> ...
  .sticky追加
+
+＃一番下のマージンが少ない
+　最小でも 80vh はほしい。
+
+.block:nth-last-of-type(1) {
+    margin-bottom: 80vh;
+}
