@@ -35,7 +35,7 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
     var o={};
     //o.last_modified = res.headers["last-modified"];
     o.date = res.summary.date
-    o.sha = res.summary.sha
+    o.sha =  res.data.sha //res.summary.sha
     ;
     o.timestamp =gettimestamp(o.date)
     o.time = getjptime(o.date)
@@ -75,7 +75,7 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
       if(!res) return res;
       
       var s={}
-      s.sha=res.data[0].sha
+      //s.sha=res.data[0].sha
       s.date=res.data[0].commit.author.date
       //console.log(s)
       /*return Object.assign({},res,{summary:s})*/
@@ -104,12 +104,14 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
     o.setfile=async (dat,file)=>{
       //isfile
       var _o={}
-      /*
+      
       var res = await o.isfile(file);      
       if(res) _o.sha = res.data.sha
-      */
+      
+      /*
       var res = await o.commits(file)
       if(res) _o.sha =res.sha;
+      */
       var content = await o.encode(dat);
       _o.content = content;
       _o.message = dat.split('\n').slice(0,1).join('')
