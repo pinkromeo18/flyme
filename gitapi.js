@@ -41,7 +41,7 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
     o.time = getjptime(o.date)
     o.download_url = res.data.download_url
     o.name = res.data.name
-    o.content = await api.decode(res.data.content)
+    o.content = await base64Decode(res.data.content) //api.decode(res.data.content)   
     o.lines = getlines(o.content)
     o.title = gettitle(o.content)
     //console.log(o)
