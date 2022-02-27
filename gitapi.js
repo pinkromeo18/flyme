@@ -98,7 +98,12 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
       var res = await o.isfile(file);
       if(!res) return res;
       var {download_url} =res.data;
-      var dat = await fetch(download_url).then(d=>d.text())
+      /**/
+      var headers = new Headers();
+      headers.append('pragma', 'no-cache');
+      headers.append('cache-control', 'no-cache');
+      /**/
+      var dat = await fetch(download_url,{headers}).then(d=>d.text())
       return dat;
     }
     o.setfile=async (dat,file)=>{
