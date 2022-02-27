@@ -1,0 +1,221 @@
+
+
+<!DOCTYPE html>
+<html lang="ja" >
+
+<head>
+
+  <meta charset="UTF-8">
+  <title> - meme  writing loadIndex...</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://pinkromeo18.github.io/maycry/maycry.css" 
+rel="stylesheet"
+>
+<script src="https://pinkromeo18.github.io/pooling/pooling.js"></script>
+  
+  
+  
+<style>
+[data-ed]{margin-bottom:2rem;}
+
+#index nav.ul{display: flex;flex-direction: column-reverse;}
+</style>
+
+
+</head>
+
+<body translate="no" >
+  <div class="block full m4">
+  <div id="bar"></div>
+</div>
+<div class="block m4">
+  <div id="meme"></div>
+</div>
+<div class="block m4">
+  <div id="index"></div>
+</div>
+
+  <script src='https://gnjo.github.io/use.js'></script>
+<script src='https://pinkromeo18.github.io/Nanobar.js/Nanobar.js'></script>
+      <script id="rendered-js" type="module">
+import "https://pinkromeo18.github.io/meme/gitapi.js"
+//meme
+;(function (root) {
+
+  fn.ismulti = (q, doc = document) => {
+    return fn.qa(q, doc).length > 1;
+  };
+  fn.getTitle = dat => {
+    return dat.split('\n').slice(0, 1).join('');
+  };
+
+  function entry(q, dat, caller) {
+    dat = dat || '＃';
+    var cep = '＃';
+    var parent = fn.q(q);
+    parent.dataset.meme = "true";
+    var tag_ed = `<div contenteditable="plaintext-only" data-ed="true">${cep}</div>`;
+    var tag_h1 = `<h1 data-title="true">${cep}</h1>`;
+    var title = fn.i3(tag_h1);
+    title.textContent = fn.getTitle(dat);
+    var q_parent = "[data-meme]";
+    var q_ed = "[data-ed]";
+    var q_title = "[data-title]";
+    //
+
+    var keydown = ev => {
+
+      if (!ev.target.dataset.ed) return;
+      if (ev.ctrlKey && ev.key == 's') return;
+      var me = ev.target,len = me.textContent.length;
+      if (ev.ctrlKey && ev.key == 'Enter') {
+        var el = fn.as2(fn.i3(tag_ed), me);
+        el.focus();
+        return;
+      }
+      //console.log(fn.ismulti(q_ed,parent),len)
+      if (ev.ctrlKey && ev.key == 'Backspace' &&
+      fn.ismulti(q_ed, parent) && len == 0) {
+        me.remove();
+        return;
+      }
+      if (me == fn.q(q_ed, parent)) {
+        title.textContent = fn.getTitle(me.textContent);
+      }
+      if (caller) {
+        caller(me);
+      }
+      return;
+    };
+    keydown = _.debounce(keydown, 50);
+    //
+    var init = () => {
+      fn.a2(title, parent);
+      dat.split(cep).slice(1).map(d => {
+        var el = fn.a2(fn.i3(tag_ed), parent);
+        el.textContent = cep + d;
+      });
+    };
+    //
+    parent.onkeydown = keydown;
+    init();
+    return parent;
+  }
+  root.meme = entry;
+})(window || this);
+
+/////////////////////////////////
+async function loadIndex(api) {
+  var $index = fn.q('#index');
+  $index.innerHTML = '';
+  var tag_h1 = `<h1>Index  <a>update</a></h1>`;
+  var tag_nav = `<nav class="ul"></nav>`;
+  var tag_li = `<li><a>?</a></li>`;
+  var $h1 = fn.i3(tag_h1);
+  var $nav = fn.i3(tag_nav);
+  var $upd = fn.q('a', $h1);
+
+  var addnew = () => {
+    var li = fn.a2(fn.i3(tag_li), $nav);
+    var el = fn.q('a', li);
+    var name = fn.rkana(8) + '.txt';
+    el.textContent = `＃新規 | ${name}`;
+    el.href = `?file=${name}`;
+    el.parentElement.style.order = ~~(Date.now() / (60 * 1000));
+  };
+  var update = async () => {
+    $nav.innerHTML = '';
+    var res = await api.isfile();
+    var list = res.data.map(d => d.name).filter(d => /\.txt/.test(d));
+    for (const d of list) {
+      var li = fn.a2(fn.i3(tag_li), $nav);
+      var el = fn.q('a', li);
+      el.textContent = d;
+      el.dataset.name = d;
+      api.isfile(d, 'summary').then(d => {
+        var s = d.summary;
+        var name = s.name;
+        var el = fn.q(`[data-name="${name}"]`, $nav);
+        Object.assign(el.dataset, s);
+        el.textContent = `${s.title} | ${s.time} | ${s.lines} | ${s.name}`;
+        el.parentElement.style.order = ~~(s.timestamp / (60 * 1000));
+        el.href = `?file=${name}`;
+      });
+    }
+    addnew();
+
+    //$pre.textContent = JSON.stringify(list,null,2) +'\n'
+    /*
+    var ary=[]
+    for(const d of list){
+      //var res = await api.commits(d)
+      var res = await api.isfile(d,'summary')      
+      ary.push(res)      
+    }
+    $pre.textContent += JSON.stringify(ary,null,2)
+    */
+  };
+
+
+  fn.a2($h1, $index);
+  fn.a2($nav, $index);
+  $upd.onclick = update;
+}
+///////////////////////////////
+async function loadMeme(api) {
+  fn.getData = q => {
+    return fn.qa(q).map(d => d.textContent).join('\n');
+  };
+
+  var $dde = document.documentElement;
+  var bar = new Nanobar({ target: fn.q('#bar'), color: "#0aa" });
+  var file = api.file;
+  var dat = (await api.getfile(file)) || '＃';
+  var m = meme('#meme', dat, me => {bar.go(20);});
+
+  var save = async () => {
+    var dat = fn.getData('#meme [data-ed]');
+    console.log(dat);
+    bar.go(40);
+    var res = await api.setfile(dat, file);
+    console.log(res);
+    bar.go(100);
+  };
+  var savekey = ev => {
+    if (ev.ctrlKey && ev.key == 's') {
+      ev.preventDefault();
+      save();
+    }
+  };
+  $dde.onkeydown = savekey;
+}
+///////////////////////////////
+function load() {
+  fn.getparam = key => {
+    var p = new URL(location.href).searchParams;
+    var file = p.get(key) || '';
+    return file;
+  };
+
+  var opt = {};
+  opt.u = '/repos/pinkromeo18/meme/contents/';
+  opt.t1 = "ghp_WjFtZHMWbe2u3v4";
+  opt.t2 = "Dhr5ziHCR2ufMNi37mp3f";
+  opt.file = fn.getparam('file');
+
+  var api = gitapi(opt);
+  if (api.file) loadMeme(api);else
+  loadIndex(api);
+  ///////////////////////////////
+}
+
+load();
+//# sourceURL=pen.js
+    </script>
+
+  
+
+</body>
+
+</html>
+ 
