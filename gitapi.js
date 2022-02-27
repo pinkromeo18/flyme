@@ -58,11 +58,7 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
     opt.t2= ''
     */
     
-   /*use GET request*/
-   var headers = new Headers();
-   headers.append('pragma', 'no-cache');
-   headers.append('cache-control', 'no-cache');
-   /**/
+   //{cache: "no-cache"}    
     
     var o=new Octokit({auth:opt.t1 + opt.t2})
     Object.assign(o,opt);
@@ -77,8 +73,9 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
       var opt ={
         path:file,
         page:1,
-        per_page:1,
+        per_page:1,        
       }
+      opt = Object.assign(opt,{cache: "no-cache"}) //<----------------
       var res = await o.req('GET '+u,opt)
       .catch(e=>void 0)
       if(!res) return res;
@@ -93,7 +90,8 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
     o.isfile=async (file,issummary)=>{
       file =file||'';//
       //sha
-      var res = await o.req('GET '+o.u+file)
+      var res = await o.req('GET '+o.u+file, {cache: "no-cache"} )//<----------------
+
       .catch(e=>void 0)
       if(!issummary) return res;
       if(!res) return res;
