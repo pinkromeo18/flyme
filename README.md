@@ -1,6 +1,9 @@
 # meme
 meme is memo
 
+- https://pinkromeo18.github.io/meme/index.html
+- https://pinkromeo18.github.io/meme/test.html
+
 ```
 query
 
