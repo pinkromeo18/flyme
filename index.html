@@ -33,59 +33,71 @@
   
 <!-- --------------------------------------- -->  
 <script id="rendered-js" type="module">
-import "https://pinkromeo18.github.io/meme/meme.js";
+import "https://pinkromeo18.github.io/meme/meme.js"
 ///////////////////////////////
-async function loadMeme(api) {
-  fn.getData = q => {
-    return fn.qa(q).map(d => d.textContent).join('\n');
-  };
+async function loadMeme(api){
+  fn.getData = (q)=>{
+    return fn.qa(q).map(d=>d.textContent).join('\n')
+  }
 
-  var $dde = document.documentElement;
-  var bar = new Nanobar({ target: fn.q('#bar'), color: "#0aa" });
-  var file = api.file;
-  var dat = (await api.getfile(file)) || '＃';
-  var m = meme('#meme', dat, me => {bar.go(20);});
+  var $dde =document.documentElement;
+  var bar = new Nanobar({ target : fn.q('#bar'),color:"#0aa"})
+  var file =api.file 
+  var dat= await api.getfile(file)||'＃'
+  var m = meme('#meme',dat,(me)=>{ bar.go(20); });
 
-  var save = async () => {
-    var dat = fn.getData('#meme [data-ed]');
+  var unsavecheck =(ev)=>{
+    if(bar.v==0)return;
+    var mes="ページを離れようとしています。よろしいですか？";
+    ev.returnValue = mes;
+    return mes;
+  }
+  
+  var save= async()=>{
+    var dat =fn.getData('#meme [data-ed]');
     //console.log(dat)
     bar.go(40);
-    var res = await api.setfile(dat, file);
+    var res=await api.setfile(dat,file);
     //console.log(res)
     bar.go(100);
-  };
-  var savekey = ev => {
-    if (ev.ctrlKey && ev.key == 's') {
+  }
+  var savekey = (ev)=>{
+    if(ev.ctrlKey && ev.key =='s'){
       ev.preventDefault();
       save();
     }
-  };
+  }
   $dde.onkeydown = savekey;
+  
+  window.onbeforeunload = unsavecheck;
 }
+
+</script>
+<!-- --------------------------------------- -->
+
+<script>
 ///////////////////////////////
-function load() {
-  fn.getparam = key => {
+function load(){
+  fn.getparam =(key)=>{
     var p = new URL(location.href).searchParams;
-    var file = p.get(key) || '';
+    var file = p.get(key)|| '';
     return file;
-  };
+  }
 
-  var opt = {};
-  opt.u = '/repos/pinkromeo18/meme/contents/';
-  opt.t1 = "ghp_WjFtZHMWbe2u3v4";
-  opt.t2 = "Dhr5ziHCR2ufMNi37mp3f";
-  opt.file = fn.getparam('file') //|| "YoGaCuVo.txt";
-
-  var api = gitapi(opt);
-  if (api.file) loadMeme(api);else
-  loadIndex(api);
+  var opt={}
+  opt.u ='/repos/pinkromeo18/meme/contents/'
+  opt.t1 ="ghp_WjFtZHMWbe2u3v4"
+  opt.t2 ="Dhr5ziHCR2ufMNi37mp3f"
+  opt.file = fn.getparam('file') //|| "YoGaCuVo.txt"
+  ;
+  var api = gitapi(opt)
+  if(api.file) loadMeme(api)
+  else loadIndex(api)
   ///////////////////////////////
 }
 
-load();
-</script>
-<!-- --------------------------------------- -->
-  
+load();  
+</script>  
 
 </body>
 
