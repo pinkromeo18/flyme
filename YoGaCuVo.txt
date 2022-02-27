@@ -5,7 +5,6 @@
 
 
 
-
 ＃解決：未保存の場合は、確認メッセージ
   window.onbeforeunload = unsavecheck;
 
@@ -85,3 +84,8 @@
     margin-bottom: 80vh;
 }
 　HTMLに直書きして、CSSを廃止
+＃解決：キャッシュコントロール
+　キャッシュなしにできていない。
+githuapi.js 
+{cache: "no-cache"}
+をオプションに加えることで解決。
