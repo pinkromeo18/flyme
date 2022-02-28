@@ -9,6 +9,8 @@
 
 https://i.pinimg.com/564x/23/e0/d0/23e0d08106392b0cbeb735ff8ad7e7c2.jpg
 https://i.pinimg.com/564x/7d/02/f5/7d02f5750ad5422a306ae847df0158f1.jpg
+
+https://raw.githubusercontent.com/pinkromeo18/meme/main/img/QaxoLezu.jpg
 ＃解決：未保存の場合は、確認メッセージ
   window.onbeforeunload = unsavecheck;
 ＃何行か、ない
