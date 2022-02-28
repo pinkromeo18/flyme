@@ -130,9 +130,18 @@ function setupImage(q,dat){
 async function loadMeme(api){
   fn.getData = (q)=>{
     return fn.qa(q).map(d=>d.textContent)
-     .map(d=>d.trimEnd()) //end cut the \n
-     .join('\n')
+      .map(d=>d.trimEnd()) //end cut the \n
+      .join('\n')
   }
+  fn.newname = (f,exe)=>{
+    f = f||''
+    var n=f.lastIndexOf('.')
+    if(n!=-1) exe = f.slice(n);
+    exe = exe||''
+    var name = fn.rkana(8).toLowerCase().split('')
+    .map((d,i)=>(i%4)?d:d.toUpperCase()).join('')
+    return name + exe;
+  }  
 
   var $dde =document.documentElement;
   var bar = new Nanobar({ target : fn.q('#bar'),color:"#0aa"})
@@ -173,22 +182,34 @@ async function loadMeme(api){
       setupImage('#image',dat);
     }
   }
+    
+  ////////  
   $dde.onkeydown = cmdkey;
   window.onbeforeunload = unsavecheck;
-
-  drop((file,url)=>{
+  drop(async (file,url)=>{
     //console.log(file,url)
-    var el =document.activeElement;
-    if(!url)return;
-    if(!el.dataset.ed) el=fn.q('[data-ed]',$m);
-    el.textContent +='\n'+url;
-    var dat = el.textContent;
-    makefig(dat); // drop and update image
-  })  
-
+    if(!url){
+      var name = fn.newname(file.name);
+      var res = await api.setfile(file, 'img/'+name )
+      var {download_url} =res.data.content
+      //console.log(res,download_url)
+      return f(download_url);      
+    }
+      return f(url)
+    ;      
+    function f(url){
+      var el = document.activeElement;
+      if(!el.dataset.ed) el=fn.q('[data-ed]',$m);
+      el.textContent +='\n'+url;
+      var dat = el.textContent;
+      makefig(dat); // drop and update image
+    }
+  })
+  ////////
+   
+  return;  
 }
-  
-///////////////////////////////
+///////////////////////////////////////////
 </script>
 <!-- --------------------------------------- -->
 
