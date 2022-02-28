@@ -1,34 +1,37 @@
 
 
 <!DOCTYPE html>
-<html lang="ja" >
+<html lang="js" >
 
 <head>
-  
+
   <meta charset="UTF-8">
-  <title> meme </title>
+  <title>flyme</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="https://pinkromeo18.github.io/maycry/maycry.css" rel="stylesheet">
+<link href="https://pinkromeo18.github.io/flyme/meme.css" rel="stylesheet">
+<link href="https://pinkromeo18.github.io/flyme/style.css" 
+rel="stylesheet"
+>
+<script src="https://pinkromeo18.github.io/noc_fetch/noc_fetch.js" ></script>
+<script src="https://pinkromeo18.github.io/noc_fetch/repo_api.js" ></script>
+<script>
+window.api = (function(){
+  var opt ={}
+  opt.u ='/repos/pinkromeo18/flyme/contents/'
+  opt.t1 ="gh....p_2Q..TD..EKMPr" 
+  opt.t2 ="...o7J...wGm.U.eSOwIbE..gT40U.TF20nahK"
+  return repo_api(opt);
+}());  
+</script>
+
   
-  <link rel="preload" href="https://pinkromeo18.github.io/noc_fetch/noc_fetch.js" as="script">
-  <script src="https://pinkromeo18.github.io/noc_fetch/noc_fetch.js?debug=true" ></script>  
- 
-  <link href="https://pinkromeo18.github.io/maycry/maycry.css" rel="stylesheet">
-  <link href="https://pinkromeo18.github.io/meme/meme.css" rel="stylesheet">
-  <link href="https://pinkromeo18.github.io/meme/style.css" rel="stylesheet">
   
-  <script src="https://pinkromeo18.github.io/meme/gitapi.js" type="module" ></script>
-  <script src='https://gnjo.github.io/use.js'></script>
-  <script src='https://pinkromeo18.github.io/meme/drop.js'></script>  
-  <script src='https://pinkromeo18.github.io/Nanobar.js/Nanobar.js'></script>
-  <script src='https://pinkromeo18.github.io/meme/meme.js'></script>  
-  <script src='https://pinkromeo18.github.io/meme/loadIndex.js'></script>
-  <script src='https://pinkromeo18.github.io/meme/setupImage.js'></script>
-    
 </head>
 
 <body translate="no" >
-  
-<div class="block full sticky m4">
+  <div class="block full sticky m4">
   <div id="bar"></div>
 </div>
 <div class="block m4 two-way">
@@ -38,96 +41,92 @@
 <div class="block m4" style="margin-bottom:50vw">
   <div id="index"></div>
 </div>
-  
-  
-  
-<script id="rendered-js">
-////////////////////////////////////////////////////////////////////////////////  
-  async function loadMeme(api){
-  fn.getData = (q)=>{
-    return fn.qa(q).map(d=>d.textContent)
-      .map(d=>d.trimEnd()) //end cut the \n
-      .join('\n')
-  }
 
-  var $dde =document.documentElement;
-  var bar = new Nanobar({ target : fn.q('#bar'),color:"#0aa"})
-  var file =api.file 
-  var dat= await api.getfile(file)||'＃'
+<script src='https://gnjo.github.io/use.js'></script>
+<script src='https://pinkromeo18.github.io/flyme/drop.js'></script>
+<script src='https://pinkromeo18.github.io/Nanobar.js/Nanobar.js'></script>
+<script src='https://pinkromeo18.github.io/flyme/meme.js'></script>
+<script src='https://pinkromeo18.github.io/flyme/loadIndex.js'></script>
+<script src='https://pinkromeo18.github.io/flyme/setupImage.js'></script>
+  
+<script id="rendered-js" >
+///////////////////////////////
 
-  var makefig = setupImage('#image',dat,api,'#meme')  //return image func
-  var $m = meme('#meme',dat,(me)=>{ 
+async function loadMeme(api) {
+  fn.getData = q => {
+    return fn.qa(q).map(d => d.textContent).
+    map(d => d.trimEnd()) //end cut the \n
+    .join('\n');
+  };
+
+  var $dde = document.documentElement;
+  var bar = new Nanobar({ target: fn.q('#bar'), color: "#0aa" });
+  var file = api.file;
+  var dat = (await api.data(file)) || '＃';
+
+  var makefig = setupImage('#image', dat, api, '#meme'); //return image func
+  var $m = meme('#meme', dat, me => {
     bar.go(20);
-    makefig(me.textContent)
+    makefig(me.textContent);
   });
 
-  var unsavecheck =(ev)=>{
-    if(bar.v==0)return;
-    var mes="ページを離れようとしています。よろしいですか？";
+  var unsavecheck = ev => {
+    if (bar.v == 0) return;
+    var mes = "ページを離れようとしています。よろしいですか？";
     ev.returnValue = mes;
     return mes;
-  }
+  };
 
-  var save= async()=>{
-    var dat =fn.getData('#meme [data-ed]');
+  var save = async () => {
+    var dat = fn.getData('#meme [data-ed]');
     //console.log(dat)
     bar.go(40);
-    var res=await api.setfile(dat,file);
+    var res = await api.put(dat, file);
     //console.log(res)
     bar.go(100);
-  }
+  };
 
-  var cmdkey = (ev)=>{
-    if(ev.ctrlKey && ev.key =='s'){
+  var cmdkey = ev => {
+    if (ev.ctrlKey && ev.key == 's') {
       ev.preventDefault();
       save();
     }
-    if(ev.ctrlKey && ev.key ==' '){ //space key
+    if (ev.ctrlKey && ev.key == ' ') {//space key
       //rebuild image
       //console.log('in ctrl + Space')
-      var dat =fn.getData('#meme [data-ed]');
-      setupImage('#image',dat,api,'#meme')
+      var dat = fn.getData('#meme [data-ed]');
+      setupImage('#image', dat, api, '#meme');
     }
-  }
+  };
 
   ////////  
   $dde.onkeydown = cmdkey;
-  window.onbeforeunload = unsavecheck;  
+  window.onbeforeunload = unsavecheck;
   ////////
-  return;  
+  return;
 }
-  
 ///////////////////////////////////////////
 </script>
 
-<script type="module">
+<script>
 ///////////////////////////////
-function load(){
-  fn.getparam =(key)=>{
-    var p = new URL(location.href).searchParams;
-    var file = p.get(key)|| '';
-    return file;
-  }
-  fn._rkana =fn.rkana
-  fn.rkana = (n)=>{
-    return fn._rkana(n).toLowerCase().split('')
-      .map((d,i)=>(i%4)?d:d.toUpperCase()).join('')
-  }
+function load() {
+  fn._rkana = fn.rkana;
+  fn.rkana = n => {
+    return fn._rkana(n).toLowerCase().split('').
+    map((d, i) => i % 4 ? d : d.toUpperCase()).join('');
+  };
 
-  var opt={}
-  opt.u ='/repos/pinkromeo18/meme/contents/'
-  opt.t1 ="gh" 
-  opt.t2 ="p_2QTDEKMPro7JwGmUeSOwIbEgT40UTF20nahK"
-  opt.file = fn.getparam('file') //|| "YogaCuvo.txt"
-  ;
-  var api = gitapi(opt)
-  if(api.file) loadMeme(api)
-  else loadIndex(api)
+  api.file = getparam('file') || "YogaCuvo.txt";
+
+  if (api.file) loadMeme(api);else
+  loadIndex(api);
 }
 
 load();
-////////////////////////////
-</script>  
+</script>
+
+  
 
 </body>
 
