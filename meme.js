@@ -75,6 +75,7 @@
         var el=fn.a2(fn.i3(tag_ed),parent)
         el.textContent = cep + d;
       })
+      upinfo(); //<------------------------------------------
     }
     //
     parent.onkeydown=keydown;    
