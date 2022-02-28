@@ -1,0 +1,6 @@
+[data-title]:after {
+  content: "　"attr(data-line)"行 "attr(data-ep)"章";
+  font-weight:1;
+  right:0;
+  position:absolute;
+}
