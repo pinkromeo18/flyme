@@ -114,10 +114,6 @@ https://i.pinimg.com/564x/7d/02/f5/7d02f5750ad5422a306ae847df0158f1.jpg
  .sticky追加
 　追加。
 
-
-
-
-
 ＃解決：一番下のマージンが少ない
 　最小でも 80vh はほしい。
 
@@ -125,11 +121,7 @@ https://i.pinimg.com/564x/7d/02/f5/7d02f5750ad5422a306ae847df0158f1.jpg
     margin-bottom: 80vh;
 }
 　HTMLに直書きして、CSSを廃止
-
-
-
-
-
+　50vwに変更
 ＃あるい程度解決：キャッシュコントロール
 　キャッシュなしにできていない。
 
