@@ -1,3 +1,4 @@
+//for repo_api.js
 /////////////////////////////////
 async function loadIndex(api){
   var $index = fn.q('#index')
@@ -23,15 +24,16 @@ async function loadIndex(api){
   }
   var update =async ()=>{
     $nav.innerHTML=''
-    var res = await api.isfile();
-    var list = res.data.map(d=>d.name).filter(d=>/\.txt/.test(d))
+    var res = await api.get()//api.isfile();
+    var list = res/*.data*/.map(d=>d.name).filter(d=>/\.txt/.test(d))
     for(const d of list){
       var li = fn.a2(fn.i3(tag_li),$nav)
       var el = fn.q('a',li)
       el.textContent = d;
       el.dataset.name = d;
-      api.isfile(d,'summary').then(d=>{
-        var s =d.summary;
+      //api.isfile(d,'summary')
+      api.summary(d).then(d=>{
+        var s =d//d.summary;
         var name = s.name
         var el = fn.q(`[data-name="${name}"]`,$nav)
         Object.assign(el.dataset,s)
@@ -42,16 +44,6 @@ async function loadIndex(api){
     }
     addnew();
 
-    //$pre.textContent = JSON.stringify(list,null,2) +'\n'
-    /*
-    var ary=[]
-    for(const d of list){
-      //var res = await api.commits(d)
-      var res = await api.isfile(d,'summary')      
-      ary.push(res)      
-    }
-    $pre.textContent += JSON.stringify(ary,null,2)
-    */
   }
 
   ;
