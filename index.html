@@ -4,18 +4,24 @@
 <html lang="ja" >
 
 <head>
-
+  
   <meta charset="UTF-8">
   <title> meme </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="preload" href="https://pinkromeo18.github.io/noc_fetch/noc_fetch.js" as="script">
+  <script src="https://pinkromeo18.github.io/noc_fetch/noc_fetch.js" ></script>  
+ 
   <link href="https://pinkromeo18.github.io/maycry/maycry.css" rel="stylesheet">
+  <link href="https://pinkromeo18.github.io/meme/style.css" rel="stylesheet">
+  
   <script src="https://pinkromeo18.github.io/meme/gitapi.js" type="module" ></script>
   <script src='https://gnjo.github.io/use.js'></script>
   <script src='https://pinkromeo18.github.io/meme/drop.js'></script>  
   <script src='https://pinkromeo18.github.io/Nanobar.js/Nanobar.js'></script>
   <script src='https://pinkromeo18.github.io/meme/meme.js'></script>  
   <script src='https://pinkromeo18.github.io/meme/loadIndex.js'></script>
-  <link href="https://pinkromeo18.github.io/meme/style.css" rel="stylesheet">
+    
 </head>
 
 <body translate="no" >
@@ -36,143 +42,153 @@
 <!-- --------------------------------------- -->  
 <script id="rendered-js">
 ///////////////////////////////
-function setupImage(q, dat) {
+function setupImage(q,dat){
 
-  var $image = fn.q(q);
-  $image.innerHTML = '';
-  var q_fig = '[data-fig]';
-  var stick_cls = 'fig-sticky';
-  var stick = ev => {
-    if (!ev.target.dataset.img) return;
+  var $image =fn.q(q);
+  $image.innerHTML='';
+  var q_fig ='[data-fig]';
+  var has_stick_cls='has-fig-sticky'
+  var stick_cls = 'fig-sticky'
+  var stick =(ev)=>{
+    if(!ev.target.dataset.img) return;
     var el = ev.target.parentElement;
     //console.log(el,ev.target)
-    if (el.classList.contains(stick_cls)) {
-      el.classList.remove(stick_cls);
+    if(el.classList.contains(stick_cls)){
+      el.classList.remove(stick_cls)
+      $image.classList.remove(has_stick_cls);
       return;
     }
-    var old = fn.q(stick_cls);
-    if (old) old.classList.remove(stick_cls);
+    var old=fn.q(stick_cls);
+    if(old) old.classList.remove(stick_cls);
     ;
-    el.classList.add(stick_cls);
-  };
+    el.classList.add(stick_cls)
+    $image.classList.add(has_stick_cls);    
+  }
 
-  var getsrc = strline => {
-    if (!/http/.test(strline)) return;
+  var isimage =(str)=>{
+    return /\.gif|\.jpg|\.jpeg|\.png|\.webp/i.test(str)
+  }
+  var getsrc =(strline)=>{
+    if(!/http/.test(strline))return;
+    if(!isimage(strline))return;
     var ary = strline.split('http');
-    var alt = ary[0];
-    var src = 'http' + ary[1];
-    return { src, alt };
-  };
+    var alt =ary[0]
+    var src ='http' + ary[1];
+    return {src,alt};
+  }
 
-  var makefigure = (strline, order) => {
-    if (!/http/.test(strline)) return;
+  var makefigure = (strline,order)=>{
+    if(!/http/.test(strline))return;
     var ary = strline.split('http');
-    var alt = ary[0];
-    var src = 'http' + ary[1];
-    var tag = `
+    var alt =ary[0]
+    var src ='http' + ary[1];
+    var tag =`
   <img src="${src}" alt="${alt}" data-img="true">
   <figcaption>${alt}</figcaption>`;
-    var fig = document.createElement('figure');
-    fig.innerHTML = tag;
-    fig.dataset.fig = 'true'; //[data-fig]
-    fig.style.order = order || 1;
-    var fra = document.createDocumentFragment();
-    fra.appendChild(fig);
+    var fig =document.createElement('figure');
+    fig.innerHTML =tag;
+    fig.dataset.fig ='true'; //[data-fig]
+    fig.style.order = order||1;
+    var fra =document.createDocumentFragment();
+    fra.appendChild(fig)
     //console.log(fra)
     return fra;
-  };
+  }
 
-  var makefigure_dat = (dat, order) => {
-    var f = str => {
+  var makefigure_dat =(dat,order)=>{
+    var f=(str)=>{
       var obj = getsrc(str);
       var old;
       var err;
-      try {
-        old = fn.q(`[src="${obj.src}"]`, $image);
-      } catch (e) {err = true;}
-      if (err) return;
-      if (old) {
-        if (old.alt == obj.alt) return;
+      try{
+        old=fn.q(`[src="${obj.src}"]`,$image);
+      }catch(e){err=true}
+      if(err) return;
+      if(old){
+        if(old.alt == obj.alt)return;
         old.alt = obj.alt;
-        var pa = old.parentElement;
-        var cap = fn.q('figcaption', pa);
+        var pa=old.parentElement;
+        var cap = fn.q('figcaption',pa);
         cap.textContent = obj.alt;
         return;
       }
       var el = makefigure(str);
       $image.appendChild(el);
-    };
-    var ary = dat.split('\n').filter(d => getsrc(d));
-    ary.map(f);
-  };
+    }
+    var ary = dat.split('\n').filter(d=>getsrc(d))
+    ary.map(f)
+  }
 
   //var str=`＊繁華街：繁華街はサイバーブルーに彩られているhttps://bit.ly/3vlr7Mq`
   //var dat=[str,str,str,str].join('\n')
-  $image.onclick = stick;
-  if (dat) makefigure_dat(dat);
+  $image.onclick= stick;
+  if(dat) makefigure_dat(dat);  
   ///
-  return makefigure_dat;
+  return makefigure_dat
 }
 
-async function loadMeme(api) {
-  fn.getData = q => {
-    return fn.qa(q).map(d => d.textContent).join('\n');
-  };
+async function loadMeme(api){
+  fn.getData = (q)=>{
+    return fn.qa(q).map(d=>d.textContent)
+     .map(d=>d.trimEnd()) //end cut the \n
+     .join('\n')
+  }
 
-  var $dde = document.documentElement;
-  var bar = new Nanobar({ target: fn.q('#bar'), color: "#0aa" });
-  var file = api.file;
-  var dat = (await api.getfile(file)) || '＃';
+  var $dde =document.documentElement;
+  var bar = new Nanobar({ target : fn.q('#bar'),color:"#0aa"})
+  var file =api.file 
+  var dat= await api.getfile(file)||'＃'
 
-  var makefig = setupImage('#image', dat); //image func
-  var $m = meme('#meme', dat, me => {
+  var makefig = setupImage('#image',dat)  //image func
+  var $m = meme('#meme',dat,(me)=>{ 
     bar.go(20);
-    makefig(me.textContent);
+    makefig(me.textContent)
   });
 
-  var unsavecheck = ev => {
-    if (bar.v == 0) return;
-    var mes = "ページを離れようとしています。よろしいですか？";
+  var unsavecheck =(ev)=>{
+    if(bar.v==0)return;
+    var mes="ページを離れようとしています。よろしいですか？";
     ev.returnValue = mes;
     return mes;
-  };
+  }
 
-  var save = async () => {
-    var dat = fn.getData('#meme [data-ed]');
+  var save= async()=>{
+    var dat =fn.getData('#meme [data-ed]');
     //console.log(dat)
     bar.go(40);
-    var res = await api.setfile(dat, file);
+    var res=await api.setfile(dat,file);
     //console.log(res)
     bar.go(100);
-  };
+  }
 
-  var cmdkey = ev => {
-    if (ev.ctrlKey && ev.key == 's') {
+  var cmdkey = (ev)=>{
+    if(ev.ctrlKey && ev.key =='s'){
       ev.preventDefault();
       save();
     }
-    if (ev.ctrlKey && ev.key == ' ') {//space key
+    if(ev.ctrlKey && ev.key ==' '){ //space key
       //rebuild image
       //console.log('in ctrl + Space')
-      var dat = fn.getData('#meme [data-ed]');
-      setupImage('#image', dat);
+      var dat =fn.getData('#meme [data-ed]');
+      setupImage('#image',dat);
     }
-  };
+  }
   $dde.onkeydown = cmdkey;
   window.onbeforeunload = unsavecheck;
 
-  drop((file, url) => {
+  drop((file,url)=>{
     //console.log(file,url)
-    var el = document.activeElement;
-    if (!url) return;
-    if (!el.dataset.ed) el = fn.q('[data-ed]', $m);
-    el.textContent += '\n' + url;
+    var el =document.activeElement;
+    if(!url)return;
+    if(!el.dataset.ed) el=fn.q('[data-ed]',$m);
+    el.textContent +='\n'+url;
     var dat = el.textContent;
     makefig(dat); // drop and update image
-  });
+  })  
 
 }
-
+  
+///////////////////////////////
 </script>
 <!-- --------------------------------------- -->
 
