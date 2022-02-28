@@ -6,6 +6,9 @@ function setupImage(q,dat,api,q_drop){
   $image.innerHTML='';
   var q_fig ='[data-fig]';
   var has_stick_cls='has-fig-sticky'
+  
+  $image.classList.remove(has_stick_cls); //<------------- reload clear
+  
   var stick_cls = 'fig-sticky'
   var stick =(ev)=>{
     if(!ev.target.dataset.img) return;
