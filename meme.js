@@ -1,4 +1,5 @@
 //meme
+//need meme.css
 ;(function(root){
 
   fn.ismulti=(q,doc=document)=>{
@@ -7,6 +8,19 @@
   fn.getTitle=(dat)=>{
     return dat.split('\n').slice(0,1).join('')
   }
+  fn.getlines=(d)=> ( d.match(/\n/g)||[] ).length;
+  
+  fn.getinfo = (q)=>{
+    var o ={ep:0,line:0}    
+    var ary=fn.qa(q)
+    var d=ary.map(d=>d.textContent)
+      .map(d=>d.trimEnd()) //end cut the \n
+      .join('\n')
+
+    o.ep = ary.length
+    o.line=fn.getlines(d)
+    return o;
+  }  
 
   function entry(q,dat,caller){
     dat = dat||'＃';
@@ -20,6 +34,10 @@
     var q_parent ="[data-meme]"
     var q_ed="[data-ed]"
     var q_title="[data-title]"
+    var upinfo=()=>{
+        var obj = fn.getinfo(q+' '+q_ed);
+        Object.assign(title.dataset,obj);      
+    }
     //
 
     var keydown=(ev)=>{
@@ -30,16 +48,19 @@
       if(ev.ctrlKey && ev.key =='Enter'){
         var el=fn.as2(fn.i3(tag_ed),me);
         el.focus();
-        return;
+        return upinfo();
       }
       //console.log(fn.ismulti(q_ed,parent),len)
       if(ev.ctrlKey && ev.key =='Backspace' && 
          fn.ismulti(q_ed,parent) && len==0){
         me.remove();
-        return;
+        return upinfo();
       }
       if(me == fn.q(q_ed,parent) ){
         title.textContent = fn.getTitle(me.textContent)
+      }
+      if(ev.key =='Enter'){
+        upinfo();
       }
       if(caller){
         caller(me);
@@ -62,6 +83,9 @@
   }
   root.meme = entry;
 }(window||this));
+
+
+  var m = meme('#meme');
 
 
 /*usage
