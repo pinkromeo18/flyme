@@ -121,7 +121,9 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
       */
       var content = await o.encode(dat);
       _o.content = content;
-      _o.message = dat.split('\n').slice(0,1).join('')
+      _o.message = file;
+      if(typeof dat =='string') //<----------------------------- image or text
+       _o.message = dat.split('\n').slice(0,1).join('');
 
       //set
       res = await o.req('PUT '+o.u+file,_o)
