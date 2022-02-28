@@ -117,7 +117,7 @@ function load() {
     map((d, i) => i % 4 ? d : d.toUpperCase()).join('');
   };
 
-  api.file = getparam('file') || "YogaCuvo.txt";
+  api.file = getparam('file') //|| "YogaCuvo.txt";
 
   if (api.file) loadMeme(api);else
   loadIndex(api);
