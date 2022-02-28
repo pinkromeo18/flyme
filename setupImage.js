@@ -88,8 +88,8 @@ function setupImage(q,dat,api,q_drop){
     //console.log(file,url)
     if(!url){
       var name = newname(file.name);
-      var res = await api.setfile(file, 'img/'+name )
-      var {download_url} =res.data.content
+      var download_url = await api.upimage(file, 'img/'+name )
+      //var {download_url} =res.data.content
       //console.log(res,download_url)
       return f(download_url);      
     }
