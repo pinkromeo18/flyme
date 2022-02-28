@@ -8,8 +8,9 @@
     uploadArea.addEventListener("drop",(event) => {
       event.preventDefault();
       var files=event.dataTransfer.files;
+      var file = files[0]; //<--------------------slice the only one
       var url = event.dataTransfer.getData("text")
-      caller(files,url);
+      caller(file,url);
     });
   }
   root.drop =drop;
