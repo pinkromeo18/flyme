@@ -84,10 +84,6 @@
   root.meme = entry;
 }(window||this));
 
-
-  var m = meme('#meme');
-
-
 /*usage
   var m = meme('#meme',dat,(me)=>{ bar.go(20); });
 */
