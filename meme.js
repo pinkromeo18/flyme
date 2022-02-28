@@ -17,7 +17,7 @@
       .map(d=>d.trimEnd()) //end cut the \n
       .join('\n')
 
-    o.ep = ary.length
+    o.ep = ary.length - 1 //<-----------------
     o.line=fn.getlines(d)
     return o;
   }  
