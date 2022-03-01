@@ -2,6 +2,9 @@
 　群像劇。全ての章において、ひとりの人物を中心に。
 
 　一話は一〇〇行以内。
+
+
+＊ゲーム開発企業ガネンシャ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BanaZulo.jpg
 ＃社長ミゴロの野望
 　ガネーシャ神はヒンドゥー教の神の一柱である。その名はサンスクリットで群衆の主を意味するという。神話において、最高神シヴァと母神パールバティの長兄である。
 　象頭の姿が特徴だ。
@@ -32,7 +35,3 @@
 　その錬金術。
 
 ＊
-
-
-
-＊ゲーム開発企業ガネンシャ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BanaZulo.jpg
