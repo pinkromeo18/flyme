@@ -5,9 +5,22 @@
 　一話は一〇〇行以内。
 
 ＊ゲーム開発企業ガネンシャのロゴ：象頭を象徴するhttps://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BanaZulo.jpg
+＊ウィザーズ：赤い剣がタイトルに刺さり、緑の竜が明滅している。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QuveXave.jpg
+
 ＊ルシーナ・ルッキーナ・シルベリウス：ただのドーナツ好きの美少女https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BaxaXove.png
 ＊ユサ・ジェームズ：風体は外人だが日常生活で苦労する方の日本人https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YejiYeni.jpg
-＊ウィザーズ：赤い剣がタイトルに刺さり、緑の竜が明滅している。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QuveXave.jpg
+
+
+＊ゴーグル：左の島のリーダー。名は体を表している。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WehuLiva.jpg
+＊ビキ：一言でいえば強い女。次期リーダー。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/ZivaSixo.jpg
+
+＊クロバラ：恋するアラサー。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/CekoDelu.jpg
+＊社長ミゴロ：ガネンシャの社長。恰幅のよい中年の経営者。顔にはいたずら心が見える。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/XehuNifu.jpg
+
+＊カンバラ・キョウジ：なんすっか、という口調のやる気の見えない男。美術の天才。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GomoDoxu.jpg
+＊イアスカさん：ガネンシャのアートディレクター。カンバラに甘い。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/CuwoReni.jpg
+
+＊キラ：右の島のリーダー。ガネンシャの旗艦であるホーススタリオンの開発者。後離脱。マジデオケアヌスを起業する。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VejaJuhu.jpg
 ＃ルシーナ・ルッキーナ・シルベリウス
 　ルシーナ・ルッキーナ・シルベリウスは、好物を口にくわえていた。
 　対しているのは、紙面。
