@@ -52,4 +52,7 @@ async function loadIndex(api){
   fn.a2($nav,$index)
   $upd.onclick=update
 }
+
+window.loadIndex = loadIndex;
+
 ////////////////////////////////////////////////////////////////////
