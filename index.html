@@ -1,0 +1,54 @@
+
+
+<!DOCTYPE html>
+<html lang="js" >
+<head>
+  <meta charset="UTF-8">
+  <title>flyme</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://pinkromeo18.github.io/flyme/style.css" rel="stylesheet">
+  <script type="module">
+import "https://pinkromeo18.github.io/use/use.js?v=1"
+import "https://pinkromeo18.github.io/noc_fetch/noc_fetch.js"
+import "https://pinkromeo18.github.io/noc_fetch/repo_api.js"
+import 'https://pinkromeo18.github.io/flyme/drop.js'
+import 'https://pinkromeo18.github.io/Nanobar.js/Nanobar.js?v=1'
+import 'https://pinkromeo18.github.io/flyme/meme.js?v=1'
+import 'https://pinkromeo18.github.io/flyme/loadMeme.js'
+import 'https://pinkromeo18.github.io/flyme/loadIndex.js'
+import 'https://pinkromeo18.github.io/flyme/setupImage.js'
+;
+
+function load() {
+
+  window.api = (function(){
+    var opt ={}
+    opt.u ='/repos/pinkromeo18/flyme/contents/'
+    opt.t1 ="gh....p_2Q..TD..EKMPr" 
+    opt.t2 ="...o7J...wGm.U.eSOwIbE..gT40U.TF20nahK"
+    return repo_api(opt);
+  }());
+
+  api.file = getparam('file') //|| "YogaCuvo.txt";
+  if (api.file) loadMeme(api);
+  else loadIndex(api);
+}
+
+load();
+    
+  </script>  
+</head>
+<body translate="no" >
+  <div class="block full sticky m4">
+  <div id="bar"></div>
+</div>
+<div class="block m4 two-way">
+  <div id="image"></div>
+  <div id="meme"></div>
+</div>
+<div class="block m4" style="margin-bottom:50vw">
+  <div id="index"></div>
+</div>  
+</body>
+</html>
+ 
