@@ -58,7 +58,7 @@ async function loadMeme(api) {
   fn.getData = q => {
     return fn.qa(q).map(d => d.textContent).
     map(d => d.trimEnd()) //end cut the \n
-    .join('\n');
+    .join('\n\n');
   };
 
   var $dde = document.documentElement;
