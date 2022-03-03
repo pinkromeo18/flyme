@@ -116,3 +116,6 @@ function setupImage(q,dat,api,q_drop){
   ///
   return makefigure_dat
 }
+
+
+window.setupImage = setupImage;
