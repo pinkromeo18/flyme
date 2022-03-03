@@ -67,7 +67,7 @@
       }
       return;
     }
-    keydown =_.debounce(keydown,50);
+    keydown =fn.debounce(keydown,50); //<--------------------------------------------------------
     //
     var init=()=>{
       fn.a2(title,parent)
