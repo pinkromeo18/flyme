@@ -1,5 +1,9 @@
 ＃ガチャドラ
 
+＊御曹司：通称ロンメル。小さな王冠を頭に乗せている。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VoceLapi.jpg
+＊赤く染まった杏仁豆腐：通称チッパイ。合いの手役。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HohuCeha.jpg
+＊ナタネ姫：やや、やさぐれた感じの美少女。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RudoNiye.jpg
+
 ＃昨日の敵は今日の友
 
 　二人はとあるカードゲーム大会で知り合った。
@@ -78,3 +82,6 @@
 
 「はめられた！」
 「いや、はめてないよ」
+「まさに王子然としてますが。その元ネタなんですか」
+「いや、普段着だよ」
+「さすが、御曹司」
