@@ -10,6 +10,8 @@
 ＊ウィズロー：モックアップ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FaciJega.jpg
 ＊東京ジュゲムで見た半竜の乙女。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QudaKiqa.png
 
+https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BigoHuta.png
+
 ＃昨日の敵は今日の友
 
 　二人はとあるカードゲーム大会で知り合った。
@@ -372,3 +374,6 @@
 　御曹司は熱狂的なファンの模様。
 　話は、ウィザーズに始まり、三大古典ゲームである、ウルティマ、ローグ、そしてウィザーズの内容を、初心者にはさっぱりわからないように、掻い摘みながら、ひとり満足していました。
 　以上割愛。
+
+　画面を見やると、緑の竜が赤い舌と眼光を見せつけながら明滅し、そして、剣に貫かれながら、赤い文字で英字のタイトルコール。
+　ちらっと聞いた話によると、この字体はアンシャル体をベースにしたものらしいのですが、ＵやＷが特徴の字体です。
