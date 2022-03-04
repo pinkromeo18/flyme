@@ -9,7 +9,6 @@
 ＊銀の小手：彼は銀の小手だ。本の収集家だよ。本業の傍ら。ウィズ系統に関する攻略本なんかを収集してもらっているのさ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LawaYiba.jpg
 ＊ウィズロー：モックアップ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FaciJega.jpg
 ＊東京ジュゲムで見た半竜の乙女。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QudaKiqa.png
-
 ＊ウィザーズ：戦闘画面。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/CugiXowe.jpg
 
 ＃昨日の敵は今日の友
@@ -471,7 +470,13 @@
 「まあ、なんでウィザーズ系のゲームを作ろうとしているのかっていうと、売り上げ的な計算が立つからだよ。ユーザ層が広い」
 「ウィザーズ系作るんですね」
 「そうそう。この型でやるよ」
-「型が在るから型破りとか、型が無いから形無しって話ですか」
+「型が在るから型破りとか、型が無いから型無しって話ですか」
+「うん。僕も斬新なゲームを作ってみたいけどね」
+「あの、とりあえずマップ表示する方法教えてください」
+「ああ――、魔法にあるよ」
+「ほう」
+　光明見えたり。
+　しかし、魔法の羅列はまさに呪文でした。
 
 ＊
 「魔法の中身覚えないといけないんですか？」
