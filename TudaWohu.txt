@@ -1,4 +1,4 @@
-＃ジュゲム
+＃開発ジュゲム
 
 ＊御曹司：通称ロンメル。小さな王冠を頭に乗せている。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VoceLapi.jpg
 「男雇ってどうするの？」
