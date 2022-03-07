@@ -13,5 +13,6 @@
 
 　新規開発のゲームは、ＥＡＴＥＲ、という開発コードである。
 　
-＊ＥＡＴＥＲの開発画面：ウィザーズを標榜しているがウィザーズの名前を加えるかは、保留中らしい。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DuwuHedi.jpg
+＊社長：キンジョウはあのトカゲと罵る。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JagoHopa.jpg
 ＊キンジョウ管理官：管理官の愛称をこよなく愛する、どことなくエリート風の男。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QideJemu.png
+＊ＥＡＴＥＲの開発画面：ウィザーズを標榜しているがウィザーズの名前を加えるかは、保留中らしい。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DuwuHedi.jpg
