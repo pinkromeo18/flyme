@@ -8,7 +8,8 @@ async function loadMeme(api) {
   var $dde = document.documentElement;
   var bar = new Nanobar({ target: fn.q('#bar'), color: "#0aa" });
   var file = api.file;
-  var dat = (await api.data(file)) || '＃';
+  var __file = "start.txt";
+  var dat = (await api.data(file)) || (await api.data(__file)) ||'＃';
 
   var makefig = setupImage('#image', dat, api, '#meme'); //return image func
   var $m = meme('#meme', dat, me => {
