@@ -17,6 +17,13 @@
 ＊キンジョウ管理官：管理官の愛称をこよなく愛する、どことなくエリート風の男。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QideJemu.png
 ＊ＥＡＴＥＲの開発画面：ウィザーズを標榜しているがウィザーズの名前を加えるかは、保留中らしい。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DuwuHedi.jpg
 
+＃序破急フォーマット
+　
+　問題提起、事実証明、想起転回、結論。
+　序：問題提起、事実証明。
+　破：思考、想起転回、結論。
+　急：次話への接続。
+
 ＃フォーマット
 
 　前半は、起承。あるいは問題提起。
