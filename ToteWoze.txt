@@ -9,6 +9,8 @@
 
 ＊提示された一枚の絵https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PahaHuti.jpg
 
+＊マイルフィック：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PuloYaqa.jpg
+
 ＃白い枠と黒い画面
 
 　プロジェクトリーダーは壮大な実験と云った。
@@ -247,3 +249,4 @@
 　ビキ自身、全く新しいゲームを作ろうとは考えていない。
 「さて、支払った分は、仕事するか」
 　決めるべきは方針である。
+「とはいえ、タイトルの名前がないとは、なんともバツが悪いな」
