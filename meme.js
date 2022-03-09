@@ -71,7 +71,12 @@
     //
     var init=()=>{
       fn.a2(title,parent)
-      dat.split(cep).slice(1).map(d=>{
+      //dat.split(cep).slice(1) //<-----------------------------------------------
+      var _cep=cep+cep+cep;
+      var re = new RegExp('(^|(?:(\n|\r|\r\n)))'+cep, 'g');
+      dat.replaceAll(re,'\n'+_cep)  //<-----------------------------------------------
+        .split(_cep).slice(1) 
+        .map(d=>{
         var el=fn.a2(fn.i3(tag_ed),parent)
         el.textContent = cep + d;
       })
