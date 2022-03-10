@@ -81,7 +81,7 @@
       
       fn.biglex(dat,cep).map(d=>{
         var el=fn.a2(fn.i3(tag_ed),parent)
-        el.textContent = d;                
+        el.textContent = d + '\n' //<--------------------------------------------------
       })
       upinfo(); //<------------------------------------------
     }
