@@ -1,3 +1,5 @@
+
+
 //meme
 //need meme.css
 ;(function(root){
@@ -9,18 +11,23 @@
     return dat.split('\n').slice(0,1).join('')
   }
   fn.getlines=(d)=> ( d.match(/\n/g)||[] ).length;
-  
+
   fn.getinfo = (q)=>{
     var o ={ep:0,line:0}    
     var ary=fn.qa(q)
     var d=ary.map(d=>d.textContent)
-      .map(d=>d.trimEnd()) //end cut the \n
-      .join('\n')
+    .map(d=>d.trimEnd()) //end cut the \n
+    .join('\n')
 
     o.ep = ary.length - 1 //<-----------------
     o.line=fn.getlines(d)
     return o;
   }  
+  fn.biglex=(d,cep)=>{
+    cep=cep||'＃'
+    return d.split('\n'+cep).map((d,i)=>(i===0)?d:cep+d)
+  } 
+
 
   function entry(q,dat,caller){
     dat = dat||'＃';
@@ -35,8 +42,8 @@
     var q_ed="[data-ed]"
     var q_title="[data-title]"
     var upinfo=()=>{
-        var obj = fn.getinfo(q+' '+q_ed);
-        Object.assign(title.dataset,obj);      
+      var obj = fn.getinfo(q+' '+q_ed);
+      Object.assign(title.dataset,obj);      
     }
     //
 
@@ -71,14 +78,10 @@
     //
     var init=()=>{
       fn.a2(title,parent)
-      //dat.split(cep).slice(1) //<-----------------------------------------------
-      var _cep=cep+cep+cep;
-      var re = new RegExp('(^|(?:(\n|\r|\r\n)))'+cep, 'g');
-      dat.replaceAll(re,'\n'+_cep)  //<-----------------------------------------------
-        .split(_cep).slice(1) 
-        .map(d=>{
+      
+      fn.biglex(dat,cep).map(d=>{
         var el=fn.a2(fn.i3(tag_ed),parent)
-        el.textContent = cep + d;
+        el.textContent = d;                
       })
       upinfo(); //<------------------------------------------
     }
