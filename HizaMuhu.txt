@@ -9,7 +9,7 @@
 ＊アカゲ：二流の冒険者らしい。嫌なことは嫌。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WaliHile.jpg
 ＊アナナン：ナチュラルに命令してくる子。なぜか人望ある。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DoboSaji.jpg
 
-＃一話
+＃間話
 
 
 
@@ -26,3 +26,6 @@
 　まじかよ。
 「だから、俺ちゃん、人助け嫌なんだよ」
 　塩の砂上から翡翠が落ちた。
+
+＃一話
+「アカゲ。できたぞい」
