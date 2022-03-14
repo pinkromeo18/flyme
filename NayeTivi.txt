@@ -1,5 +1,4 @@
-＃昇降機
-　ブラック・アンダー・ゴールド
+＃ブラック・アンダー・ゴールド
 
 　一話分の序破急フォーマット
 　序：問題提起、事実証明。
@@ -8,6 +7,10 @@
 
 
 ＊https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BuleXosi.jpg
+
+
+　第一層　前編　NPCとの対話あるいは目的提示
+　第一層　後編　ボス討伐
 
 ＃昇降機
 
