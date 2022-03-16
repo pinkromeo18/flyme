@@ -6,7 +6,8 @@
 
 　仮想スペースでゲーム開発しているような。
 
-
 ＊ロデオ：名前にはロデオとある。紫の法衣に、魔導書を持つ、銀髪の青年だ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VovaKoka.jpg
+
+＊アカゲ：名前にはアカゲとある。名前は少し浮いている。黒いタイを結んだシャツと、眠たげな目を持つ、赤毛の男だ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YobaZepu.jpg
 
 ＃
