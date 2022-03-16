@@ -5,6 +5,7 @@
 　急：次話への接続。雰囲気。
 
 　冒険者の酒場と、開発室、大正喫茶、を場所。
+　その三つを中心にゲーム開発しているような。
 
 ＊ロデオ：名前にはロデオとある。紫の法衣に、魔導書を持つ、銀髪の青年だ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VovaKoka.jpg
 
