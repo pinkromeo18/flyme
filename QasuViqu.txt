@@ -4,8 +4,6 @@
 　破：思考、想起転回、結論。
 　急：次話への接続。雰囲気。
 
-
-
 　一行ヒント。
 　エネミーリスト。
 　パーティーリスト。
@@ -17,8 +15,6 @@
 　魔物小。
 　名前入力。
 　
-
-
 ＊ほんわか、くーでれ、自信家：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HovaLehi.jpg
 ＊お嬢：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/MageDuwu.jpg
 ＊アカゲ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QoyoCoxu.jpg
