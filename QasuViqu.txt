@@ -13,7 +13,7 @@
 　背景。
 　魔物大。
 　魔物小。
-　名前入力。
+　入力画面。
 　
 ＊ほんわか、くーでれ、自信家：チアー、マドウ、アナナン。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HovaLehi.jpg
 ＊お嬢：権力使って何が悪いの？https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/MageDuwu.jpg
