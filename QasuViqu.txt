@@ -3,3 +3,23 @@
 　序：問題提起、事実証明。
 　破：思考、想起転回、結論。
 　急：次話への接続。雰囲気。
+
+
+
+　一行ヒント。
+　エネミーリスト。
+　パーティーリスト。
+　コマンドリスト。
+　ショップリスト。
+　迷宮画面。
+　背景。
+　魔物大。
+　魔物小。
+　名前入力。
+　
+
+
+＊ほんわか、くーでれ、自信家：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HovaLehi.jpg
+＊お嬢：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/MageDuwu.jpg
+＊アカゲ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QoyoCoxu.jpg
+＊ロデオ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DuyaQavu.jpg
