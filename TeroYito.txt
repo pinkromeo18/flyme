@@ -1,11 +1,10 @@
-＃一話分の序破急フォーマット
-
+＃ＴＲＰＧ
 
 　序：問題提起、事実証明。
 　破：思考、想起転回、結論。
 　急：次話への接続。雰囲気。
 
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HovaLehi.jpg
+＊https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HovaLehi.jpg
 
 ＃００１
 
@@ -24,3 +23,7 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HovaLehi.jpg
 「そっちは違う」
 「ＴＲＰゲームなんですか」
 「惜しい、というか、そういう解釈は始めて見た」
+「正しい解釈は、テーブルトークＲＰＧじゃ」
+「つまり、トーク」
+「そうじゃ、おしゃべりで、なんとなく、冒険したりするのじゃ」
+「ほう。じゃあコズミックじゃなくて、ファンタジーなの？　アナナン」
