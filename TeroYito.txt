@@ -6,6 +6,14 @@
 
 ＊三人娘。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HovaLehi.jpg
 
+
+　開発は画面数で考える。
+　選択画面。
+　入力画面。
+　迷宮画面。地図画面。
+　戦闘画面。報酬画面。
+　施設画面。
+
 ＃００１
 
 　では、始めるぞい、とアナナンは宣言した。
