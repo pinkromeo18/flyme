@@ -14,6 +14,6 @@
 　ヘミソフィア――。ゲーム世界でもあるが、ユサが開発したゲームエンジンの総称。ウィザードリィを簡単に作れるようにとの方針がある。キートリガー方式で、プレイヤーがキーを押すたびに判定が走る。街と迷宮はひとつ。迷宮はワイヤーフレーム。迷宮のサイズは縦横二五マス。迷宮の階層はゼロ層を含めて九層まで。魔物は九九まで。武具は九九まで。道具は九九まで。魔法は九九まで。イベントは五〇まで。ひらがな文字がシンボルとなり、あ、から、ん。イベントは、迷宮のマップにシンボルを設定し、そのシンボルごとに、シナリオスクリプトが走る。シナリオスクリプトでできることは、文字の表示、音の表出、絵の表示、選択肢は現状八つまで。なお、画面サイズは縦横三二〇ピクセル。色数は二五六色。文字は一〇ピクセルのドット文字。大文字英字、数字記号、ひらがな、カタカナ。濁点は削られている。濁点文字を使い二文字表記。たとえば、ド、は、トに濁点文字。ヘミソフィアは概ね機能を完備し、改善のシークエンスにある。ちなみにヘミソフィアの名称は、半円の平面上に世界が構築されていることから。ヘミスフィアの誤植。
 　街と迷宮の物語――。クレジット名、ルシーナ・ルッキーナ・シルベリウスが最初につけたタイトル。仮題。ユサには好評ではなく、改題を要求されている。
 
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FaxoZehe.jpg
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JoruTife.png
-＊ノキア、最後の良心。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YemuRile.jpg
+＊隠れロイヤルブラッド・アーガス。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FaxoZehe.jpg
+＊力を失った少女・シルベリウス。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JoruTife.png
+＊最後の良心・ノキア。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YemuRile.jpg
