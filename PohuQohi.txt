@@ -6,7 +6,7 @@
 
 　現実と幻想を交互に。
 
-　ゲーム世界、アーガス、シルベリウス
+　ゲーム世界、アーガス、シルベリウス、ノキアさん
 　現実世界、ユサ、ルシーナ・ルッキーナ・シルベリウス
 
 　ゲーム世界――。ヘミソフィアという世界。魔法は神の奇跡で、祈らなければならない。迷宮と呼ばれる地下空間は広大にある。
@@ -16,4 +16,4 @@
 
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FaxoZehe.jpg
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JoruTife.png
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YemuRile.jpg
+＊ノキアさん、最後の良心。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YemuRile.jpg
