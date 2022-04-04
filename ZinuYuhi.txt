@@ -73,5 +73,8 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/MezeLaqi.jpg
 　バーが完了を通知する。
 　画像。チラシのような。
 「このポップでキャッチーな広告とは正反対の、ゴシック的な物々しいチラシは？」
+「募集じゃ」
 「募集ですか？」
+「募集って、何の？」
+
 「ほう、裏口か」
