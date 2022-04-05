@@ -1,0 +1,49 @@
+＃ゲームブック方式
+
+　序：問題提起、事実証明。
+　破：思考、想起転回、結論。
+　急：次話への接続。雰囲気。
+
+＃ゲームブック方式について
+　ゲームブックとは、小説的であり、しかし、作中、読み手に選択肢が提示され、読み手が自由に解釈し、選択肢で示されたページへ進む方式である。
+　これによって、運命論的小説は解脱し、複数の結末に辿り着くことができる。
+　ゲームブックは今では役目を終えたとされ、紙媒体としては存在しない。しかし、電子ゲームに発展的に消化された。
+
+
+　ゲームブック方式のシナリオスクリプト
+　表示できればいいのは、絵と文字と選択肢。
+　選択肢のために、キー入力は必要である。
+　また、ページ移動の指示も必要である。
+
+----
+var temp=`
+data...
+`
+var f=async()=>{ }
+gamebook({
+
+parse:parse,
+key:key,
+
+query:'#gamebook',
+
+img:f,
+bg:f,
+log:f,
+sel:f,
+
+isimg:isimg,
+isbg:isf,
+islog:islog
+issel:issel,
+
+})
+
+await gamebook(temp)
+
+async function gamebook(data){
+   if( is.object(data))return set(data)
+   else return await run(data)
+}
+
+----
