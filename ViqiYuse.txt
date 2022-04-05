@@ -42,10 +42,13 @@ issel:issel,
 
 })
 
+var flg = gamebook().flg
+
 await gamebook(temp)
 
 async function gamebook(data){
-   if( is.object(data))return set(data)
+   if( is.undefined(data) ) return get()
+   else if( is.object(data) ) return set(data)
    else return await run(data)
 }
 
