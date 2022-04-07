@@ -1499,4 +1499,4 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LuneGovu.jpg
 「ああ、別料金って？」
 「そうそう。だが、最初のエフェクトくらいは負けてくれよ。一個あればいい」
 「最初のエフェクトって？」
-「ブラックアウトだ」
+「フェードアウトだ」
