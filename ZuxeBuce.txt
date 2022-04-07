@@ -1500,3 +1500,4 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LuneGovu.jpg
 「そうそう。だが、最初の二つぐらいは負けてくれよ。二つあればいい」
 「二つ？　まあ二つぐらいなら」
 「ありがとよ、フェードアウトとクエイクだ」
+　それぞれシナリオの遷移。ダメージの表出に使える。
