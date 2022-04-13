@@ -7,7 +7,7 @@
 緋色のリルン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FuliPuje.jpg
 クチバシ兜：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BemeWaxu.jpg
 
-＃ザンデの街と底なしの迷宮
+＃０００　ザンデの街と底なしの迷宮
 
 　街は自然豊かという程度にしか、特徴はなかった。
 　しかし、五大国の中で、重要な位置を占める。
@@ -41,3 +41,5 @@
 　結界は迷宮守の秘術とされるが、人間が行える作法のひとつである。
 　しかし、それはザンデの街の秘術であり、街の者のみに許された事である。
 　そうやってザンデの街は、迷宮を中心に繁栄の途にある。
+
+＃００１　最初の試練
