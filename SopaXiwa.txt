@@ -7,7 +7,7 @@
 
 　魔晶石。妖精がひとの姿になるために必要な魔力の結晶石。
 　宝石妖精のフェイ。手乗りサイズ。人間の娘になるとすると尻尾と耳が生える。
-　召喚師のトルウ。気ままな冒険者ぐらしが気に入ってるんだけどなあ。パイプ杖を持つ召喚師の青年。青い正装に白いブーツ。そして目元をマスクで覆っている。
+　召喚師のトルウ。気ままな冒険者ぐらしが気に入ってるんだけどなあ。パイプ杖を持つ召喚師の青年。青い正装に白いブーツ。そして目元をマスクで覆っている。トルウはこの職業衣装を気に入っている。
 
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DujuSage.jpg
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FiluJivi.jpg
