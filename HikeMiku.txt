@@ -9,7 +9,7 @@
 　題材は古典的な迷宮探索ＲＰＧ。
 
 
-太陽の仮面をつける導者：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GuhuCeja.jpg
+太陽の仮面をつけた導者：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GuhuCeja.jpg
 
 
 
