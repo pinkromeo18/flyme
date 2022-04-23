@@ -4,10 +4,10 @@
 　破：思考、想起転回、結論。
 　急：次話への接続。雰囲気。
 
-トカゲ：俺ちゃん死んだら、蘇生してくれよ。頼むぜ。蜥蜴の呪いをかけられたと語る、蜥蜴の成りの男。元人間族。メタ発言もぽろりとする。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QogeJalu.jpg
+トカゲ：戦斧を担ぐ戦士の男。俺ちゃん死んだら、蘇生してくれよ。頼むぜ。蜥蜴の呪いをかけられたと語る、蜥蜴の成りの男。元人間族。メタ発言もぽろりとする。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QogeJalu.jpg
 シラヌイ：異国の装束をまとう侍人の娘。スートと主従の関係にある。デイジーは、おっぱい侍とからかう。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/XirePira.png
-デイジー：海賊から冒険者になった殴り僧侶の女。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FahoKexi.jpg
-スート：砂漠の民の衣装にターバンを巻いた、いたずら好きそうな眼の青年。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GiyoMeta.jpg
+デイジー：海賊から冒険者になった殴り僧侶の女。戦闘中はほぼ回復をしない戦闘狂。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FahoKexi.jpg
+スート：召喚の男。砂漠の民の衣装にターバンを巻いた、いたずら好きな眼を持つ青年。とある南部諸国の第二王子。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GiyoMeta.jpg
 
 バーミーズ：でたなマスコット。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RunaZadu.jpg
 
