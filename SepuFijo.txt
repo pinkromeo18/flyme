@@ -1,14 +1,14 @@
-＃迷宮守
+＃ザンデの魔導院
 
 　序：問題提起、事実証明。
 　破：思考、想起転回、結論。
 　急：次話への接続。雰囲気。
 
 コーネリアス：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/NiweKeda.jpg
-クロバラ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/TekuKoxe.jpg
 アナナン・ザバーン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JilaSeca.jpg
+クロバラ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/TekuKoxe.jpg
 
-　剣しか振れない男と、魔法しか使えない少女と、知識しかない女は、指定された迷宮に向かう。
+　剣しか振れない男と、魔法しか使えない少女と、知識過多の女は、指定された迷宮に向かう。
 　そこで、見事課題を達成すれば、それぞれの足りない点に、お目溢しを貰えるらしい。
 　ここはザンデの魔導院。
 　大胆にも魔神城をそのまま使い、来るべき魔神王の復活に備える、冒険者を育成するための施設だ。
