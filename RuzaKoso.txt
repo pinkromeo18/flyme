@@ -22,6 +22,8 @@
 
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VewoLela.png
 
+主人公たち：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LaleGuru.png
+
 ＃
 
 　ガネンシャは群像劇である――。ゲーム開発の敷居は年々下がっている。ひとつには、手法が統一されつつあること。加えて、ゲームに熱中した世代がゲームを作りたいと思うからという、心情的な願望からだろう。素材、ロジック、広告の世界である。
