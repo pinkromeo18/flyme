@@ -1,5 +1,20 @@
-＃冒険者のための、五〇の選択
+＃冒険者たちは全滅したのだ
 
-　序：問題提起、事実証明。
-　破：思考、想起転回、結論。
-　急：次話への接続。雰囲気。
+
+　ここは冒険者の酒場。情報収集の拠点であり、依頼の掲示もある。
+
+
+　１．強敵の紹介。全滅する他のパーティー。
+　２．冒険者たちの紹介。依頼の紹介。ここは冒険者の酒場。
+　３．迷宮へ。雑魚との戦闘。
+　４．強敵と戦う。
+　
+
+　ナグリ。十字鈍器を振り回す攻撃一辺倒の僧侶。
+　ワサビ。オリオンと同郷の者。オリオン様と、恋する瞳の冒険者。
+　オリオン。銀髪。中性的な顔立ちの青年。ナグリからは貴公子様とからかわれる。おいで、妖精。
+
+
+https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HituTufi.jpg
+https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WidaLilu.png
+https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WotaRada.jpg
