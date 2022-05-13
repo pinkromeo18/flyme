@@ -10,11 +10,11 @@
 　４．強敵と戦う。
 　
 
-　ナグリ。十字鈍器を振り回す攻撃一辺倒の僧侶。
-　ワサビ。オリオンと同郷の者。オリオン様と、恋する瞳の冒険者。
-　オリオン。銀髪。中性的な顔立ちの青年。ナグリからは貴公子様とからかわれる。おいで、妖精。
+　オリオン。銀髪。中性的な顔立ちの青年。ナグリからは貴公子様とからかわれる。細身の剣をもつ召喚師。おいで、妖精。
+　ワサビ。鳩を連想させる白い羽髪。眉根が常に下がり庇護欲をくすぐる娘。オリオンと同郷の者。オリオン様と、恋する瞳の冒険者。冒険者職は薬師。
+　ナグリ。十字鈍器を振り回す攻撃一辺倒の僧侶。基本は独立独歩だが、よくオリオンたちと行動をともにする。
 
 
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HituTufi.jpg
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WidaLilu.png
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WotaRada.jpg
+ナグリ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HituTufi.jpg
+オリオン。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WidaLilu.png
+ワサビ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WotaRada.jpg
