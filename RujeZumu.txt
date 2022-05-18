@@ -7,10 +7,11 @@
 
 
 　ドッペルナントと迷宮喰らい、だろうな。
+「そうなのです。私たちは、とある都市が迷宮喰らいによって塩柱化したとの報を受けて向かっているのです」
 
 　
 　魔神王ダーレーシャン。最強魔法である石化の魔法を使う。
-　主人公。石像となっている。ターバン野郎。
+　オリオン。石像となっている。ターバン野郎。
 
 　赤髪の女。戦士。ナグリ。愛称。「あたいはナグリだ。本名とかどうでもいいから、ナグリって呼べ。好きなものは肉だな」
 　異国装束の侍人。アヤメ。「我はアヤメだ。短い間だろうがよろしく頼む」「アヤメはツーンにゃが、デレると可愛いにゅ」「ああ、デレると可愛いらしい。よろしく頼む」
@@ -25,4 +26,5 @@
 
 
 
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GaxoGimu.png
+＊調査隊：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GaxoGimu.png
+＊オリオン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PubiPaqu.png
