@@ -10,6 +10,7 @@
 
 　メイド喫茶「カフェオレ」
 
+
 メイド喫茶のオヤジ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JuxuYowe.jpg
 ユウマ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KuxuMoku.png
 
@@ -27,6 +28,7 @@
 　ボードは電光掲示板。
 　掲示板は、一覧形式になっていて、番号が割り振られている。一覧は、概要と、それに対する募集の状況が示させれている。
 　ドッペルナントの討伐。秋葉原外苑。二万円。三人まで。
+
 
 　荒上さん。
 
