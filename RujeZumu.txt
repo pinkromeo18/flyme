@@ -25,7 +25,9 @@
 
 
 ＊調査隊：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GaxoGimu.png
+
 ＊オリオン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PubiPaqu.png
+
 「オリオン殿は、逸失した召喚魔法を扱えるのだな」
 「召喚魔法は逸失しているのか？」
 「ああ、召喚石は未だに迷宮から発掘可能だが、召喚魔法なるものは、すでに失われて久しい」
