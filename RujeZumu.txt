@@ -24,7 +24,5 @@
 
 
 
-
-
 ＊調査隊：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GaxoGimu.png
 ＊オリオン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PubiPaqu.png
