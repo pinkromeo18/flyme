@@ -65,6 +65,7 @@
 
 
 
+
 ユサ：ファイアホースでの種族はハーフエルフ。半森人族。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JiboCevu.jpg
 ヒメコ：ファイアホースでの種族はヴェニス。仮面種族。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PidaBixu.jpg
 グーリン。ファイアホースでの種族はバーミーズ。兎耳族。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SemoMaca.png
