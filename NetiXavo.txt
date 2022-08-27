@@ -10,8 +10,7 @@
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QugaKoso.jpg
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/TicaZupe.jpg
 
-
-
+＃００１
 「この世界、ケモミミとツノツキと魔物しかいませんからね」
 「最後に物騒なの入ったね」
 「共通の敵というやつですよ」
@@ -32,3 +31,7 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/TicaZupe.jpg
 「オンラインなんだよね？」
 「そうですね。課金には、オンラインが手間がかかりませんから」
 「あー、なるほど、そういうオンラインなんだ」
+「課金してくれますか？」
+「もう少し様子見ていいかい？」
+「えー」
+「でも、ある程度はできるんでしょ」
