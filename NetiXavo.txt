@@ -13,9 +13,11 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/TicaZupe.jpg
 　When(いつ)
 　Where(どこで)
 　Who(誰が、だれと)
+
 　What(何を)
 　Why(なぜ)
 　How(どのように)
+　解決したのか。
 
 ＃００１
 「この世界、ケモミミとツノツキと魔物しかいませんからね」
