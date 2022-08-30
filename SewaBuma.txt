@@ -9,7 +9,7 @@
 クロバラ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QiqaCizu.jpg
 ユサ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BeceVoco.jpg
 
-＃とある会話
+＃とあるストレングス上の会話
 
 「アナナンがまたオンライン始めるって」
 「飽きたんじゃなかったの？」
@@ -27,4 +27,5 @@
 「へえ――」
 　アナナンがログインしました――。
 「噂をすれば」
-「
+「クロバラや、ユサには話したかえ？」
+「さらっと、今ね」
