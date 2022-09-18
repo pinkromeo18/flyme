@@ -22,6 +22,8 @@
 クロバラ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/NejeDoze.jpg
 イアスカ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PixeGana.jpg
 
+まほまほリターン。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/XoheZusu.jpg
+
 ＃
 
 「お兄。それででろということですか」
@@ -79,6 +81,13 @@
 　えっへん。
 「強いぞこの子のゴブリンは」
 　一夜漬けのコチトラは、なんとか勝ち登っていくのです。
+
+「ふふふっ。いでよ、まほまほリターン」
+　あなたのアタックフェイズ開始時、対戦相手は以下の二つから一つを選び、あなたはそれを行う。
+　一、対戦相手のデッキの上からカードを四枚引き、墓地に置く。
+　二、あなたの墓地から一枚を対象とし、それを手札に加える。
+　もちろん二ですね。
+「カムバック、万歳突撃」
 
 　コチトラのデッキは、ゴブリンはめ。
 　コンセプトデッキの一種で、数の暴力で削ります。
