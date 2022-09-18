@@ -17,7 +17,10 @@
 
 御曹司。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RehoJoza.jpg
 コチトラ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BoceFeta.jpg
-巨匠。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PareMoxu.png
+巨匠。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/NunaDeti.jpg
+ジャコ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KujoJabi.jpg
+クロバラ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/NejeDoze.jpg
+イアスカ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PixeGana.jpg
 
 ＃
 
