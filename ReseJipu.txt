@@ -146,16 +146,6 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DabaCese.jpg
 
 ＃０００
 
-
-　ロザリン商会
-　石灰石の寺院
-　金羊毛亭
-　広場
-　王城
-　訓練所
-　ミノタウロス迷宮
-
-
 　君たちは、巨像が島と島を跨ぐ国を訪れた。
 　数ある都市国家のひとつで城塞都市である。
 　この国では、今離宮にミノタウロスがいるとの噂で持ちきりである。
@@ -184,6 +174,13 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DabaCese.jpg
 「馬小屋はこの酒場の裏手にあるから、一言断って、勝手に寝ろよ」
 　内容は、どうやら冒険者の行動範囲をまとめたもののようだ。
 
+　ロザリン商会
+　石灰石の寺院
+　金羊毛亭
+　広場
+　王城
+　訓練所
+　ミノタウロス迷宮
 
 　
 
