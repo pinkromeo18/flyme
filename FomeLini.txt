@@ -4,9 +4,9 @@
 　破：思考、想起転回、結論。
 　急：次話への接続。雰囲気。
 
-ガオ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RiveNiqu.jpg
-ショジョノン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JidoBusu.png
-ゲーム画面：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RiqeHaqi.png
+　ガオ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RiveNiqu.jpg
+　ショジョノン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JidoBusu.png
+　ゲーム画面：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RiqeHaqi.png
 
 ＃０００
 　
@@ -29,10 +29,12 @@
 「ガオ選手、よりわかりやすい比喩をお願いします」
 「おそらく初弾は耐えられると思われる」
 「ほう」
-「そして、お前が加えているコンドームの耐久度は、三五〇ミリリットルだ」
+「そして、お前が写真で咥えているコンドームの耐久度は、三五〇ミリリットルだ」
 「なんと。ガオはコンドームソムリエだったんだね」
 「このコンドームはどこから取ってきた」
 「ちょっと気になる男の子さんのお家から」
+「軽犯罪か？」
+「散らしたら重罪だよ？」
 
 
 
