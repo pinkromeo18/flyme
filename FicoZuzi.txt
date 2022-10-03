@@ -4,10 +4,9 @@
 　破：思考、想起転回、結論。
 　急：次話への接続。雰囲気。
 
-
 　カタカナは、ゲーム用語を中心に。基本は、日本語。
 
-　雲型ヘッドマウントのオペレーター：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JiroZequ.jpg
+　蜘蛛型ヘッドマウントのオペレーター：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JiroZequ.jpg
 
 ＃０００
 
@@ -20,4 +19,7 @@
 　――記憶の中枢を絞ります。よろしいですか？
 　はい。
 　いいえ。
-　女性型の電子音声が首筋から聞こえる。
+　女性型の抑揚のない電子音声が首筋から聞こえる。
+　キーンという痛みにも似た音は、後か先か。
+　おそらく、選んだ直後に起きた現象だ。
+　蜘蛛型頭部装置にはハサウェイのロゴある。
