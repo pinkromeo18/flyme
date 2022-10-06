@@ -71,5 +71,6 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YojeZudu.jpg
 
 
 　装備箇所は一六箇所ある。
-　武器、盾、兜、首飾り、鎧、小手、マント、ベルト、靴
-　指輪、指輪
+　武器、手、肩、鎧、兜、首輪、マント。
+　盾、靴、下鎧、ベルト、袋。
+　指輪、指輪、指輪、指輪。
