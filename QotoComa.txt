@@ -7,7 +7,7 @@
 　ＳＣＰ０９３：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RowiPiye.jpg
 　ガネンシャ部屋割り：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GamiTesi.jpg
 
-＃一幕　ＵＭＡ
+＃一幕　ＳＣＰ０９３
 　
 　男は追われている。
 　やべ、見なきゃよかった。そう思った。
@@ -31,3 +31,8 @@
 　うぉ。
 　言葉は厳しい。
 　しかし、どこか安堵する女の声がした。
+
+
+「アカゲ」
+「なんだ？」
+「タイが曲がってる、結び直していけ」
