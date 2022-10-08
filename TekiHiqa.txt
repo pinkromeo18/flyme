@@ -1,14 +1,14 @@
 ＃クーデ・ファンタジー
 
-　イアスカ。アートディレクター。バイトその一。
-　アナナン。魔物担当。バイトその二。
-　コソデ。設定管理。バイトその三。
-　クーデ。シナリオ担当。バイトその四。
+　イアスカ。アートディレクター。バイトその一。https://pinkromeo18.github.io/flyme/img/PedaYeba.jpg
+　アナナン。魔物担当。バイトその二。https://pinkromeo18.github.io/flyme/img/DasaCize.png
+　コソデ。設定管理。バイトその三。https://pinkromeo18.github.io/flyme/img/WuroCanu.jpg
+　クーデ。シナリオ担当。バイトその四。https://pinkromeo18.github.io/flyme/img/WokePoja.png
 
-　アカゲ。リーダー。
-　ビキ。進捗管理。
-　ユサ。天才プログラマ。
-　シンノシン。ゲームデザイナー。
+　アカゲ。リーダー。https://pinkromeo18.github.io/flyme/img/WaliHile.jpg
+　ビキ。進捗管理。https://pinkromeo18.github.io/flyme/img/BefuKuku.png
+　ユサ。天才プログラマ。https://pinkromeo18.github.io/flyme/img/LevaZire.jpg
+　シンノシン。ゲームデザイナー。https://pinkromeo18.github.io/flyme/img/CeguWone.png
 
 ＃一幕　アカゲさんは、ほんとはコソデにまかせたいと云いました
 
@@ -145,3 +145,10 @@
 「はは、大丈夫ですよ、夜遅くなったらアカゲさんに送ってもらいますから」
 「既に遅かったか」
 「へ？」
+
+
+
+「ここは？」
+「アカゲさん的には、火事場だそうです」
+「そうなんだ、馬鹿力なの？」
+「はは、まあ、そんな意味かと」
