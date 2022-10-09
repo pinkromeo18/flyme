@@ -6,8 +6,9 @@
 　背景は、ハンニバルに敗北したローマ帝国直後の雰囲気。
 　主体は、敗北した将軍の断頭台処刑に立ち会う。
 
+キャラクター画面：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JipoRifo.jpg
 
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JipoRifo.jpg
+勇者：男女どちらでも。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YepiComu.jpg
 
 ＃ゲームの全体像
 
@@ -167,8 +168,6 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JipoRifo.jpg
 　〇一層、固定。
 　〇二層、可変。
 　〇三層、可変。
-　
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YepiComu.jpg
 
 ＃序章　聖なるかな
 
