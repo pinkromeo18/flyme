@@ -72,6 +72,12 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JipoRifo.jpg
 　情報屋の情報には、全てナンバリングする。
 　情報数は九九まで。
 
+
+　５．戦闘
+　戦闘はターン制。
+　ただし、移動画面の上に魔物を登場させ、戦闘とする。
+
+
 　３．迷宮層のコンセプト予定
 　〇一層、固定。
 　〇二層、可変。
