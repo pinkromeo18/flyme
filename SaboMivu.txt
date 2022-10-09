@@ -163,9 +163,12 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JipoRifo.jpg
 　　
 
 　３．迷宮層のコンセプト予定
+　ひとつの層に、一体以上ＮＰＣを置く。
 　〇一層、固定。
 　〇二層、可変。
 　〇三層、可変。
+　
+https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YepiComu.jpg
 
 ＃序章　聖なるかな
 
