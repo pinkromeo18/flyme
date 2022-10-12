@@ -9,7 +9,7 @@
 
 　ウィザードリィ５：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LazuSomu.jpg
 
-＃一幕　それの開発までの話
+＃一幕　それの基盤までの話
 
 ＊開発陣が、話している。
 
