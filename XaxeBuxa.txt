@@ -15,7 +15,7 @@
 　列柱には、職業神がおり、祈ることで可能となる。
 　しかし、その波長違えば、その職業神の冒険者職につくことはできない。
 
-ノア：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FipaZepu.jpg
+ノアニ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FipaZepu.jpg
 ワサビ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GeyaFuju.jpg
 
 ＃一話　みな魔物におびえている
@@ -73,3 +73,7 @@
 　その時、また大きく声が聞こえた。
 　少なくとも心の叫びに違いない。
 　自分の声と間違えた。
+　少女は槍もち震えている。
+　ワサビ！
+　道連れだ――。
+　獣の声、聞こえた気がした。弱いものを刈る。世界の掟だろう。
