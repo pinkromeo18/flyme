@@ -2,6 +2,8 @@
 
 
 　アカゲ：開発リーダー。
+
+　クーデ：モデラー。シナリオ担当希望。
 　ジャコ：プログラマ。
 
 　ロストブラッド：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LuxeKuhi.jpg
