@@ -1,6 +1,8 @@
 ＃ウィズオン・ロストブラッド
 
 
+　アカゲ：開発リーダー。
+　ジャコ：プログラマ。
 
 　ロストブラッド：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LuxeKuhi.jpg
 
