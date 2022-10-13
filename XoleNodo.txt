@@ -1,14 +1,14 @@
 ＃ウィズオン・ロストブラッド
 
 
-　アカゲ：開発リーダー。
+　アカゲ：開発リーダー。ただの調整役。
 
 　クーデ：モデラー。シナリオ担当希望。
-　ジャコ：プログラマ。
+　ジャコ：プログラマ。迷宮だけ作りたい。
 
 　ロストブラッド：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LuxeKuhi.jpg
 
-＃
+＃一幕　開発室
 
 
 
