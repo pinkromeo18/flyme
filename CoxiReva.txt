@@ -2,6 +2,9 @@
 
 　ジャケットの質：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VupeBugi.jpg
 
+
+＊牛野屋をゲーム内に登場させる。
+
 ＃画面
 
 　１．パートナー画面
