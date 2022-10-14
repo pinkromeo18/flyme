@@ -3,7 +3,7 @@
 　ジャケットの質：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VupeBugi.jpg
 
 ＊牛野屋をゲーム内に登場させる。それで、広告費をもらう。
-コマンド：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JocuNopi.png
+　コマンド：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JocuNopi.png
 
 ＃画面
 
