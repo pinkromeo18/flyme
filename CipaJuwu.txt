@@ -1,4 +1,4 @@
-＃ゲーム開発中心、アカゲ公のいとも華麗なる冒険の書より
+＃ビルダーズ：アカゲ公のいとも華麗なる冒険の書より
 
 
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JanoXuqu.jpg
