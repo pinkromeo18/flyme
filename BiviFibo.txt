@@ -4,9 +4,16 @@
 　善と悪、秩序と混沌、剣と魔法。
 
 
-「アナナンは、勇気は蛮勇だと思うのじゃ」
-「それ、ダメじゃない？」
-「わ、私も行くわよ。お金、報奨金とかでそうだし」
+　ビキ：神女。アルペイオスの庶子。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BapoQaga.jpg
+　アナナン：ちびっこ戦士。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/TaboFune.jpg
+　ヒナゲシ：合いの手魔導。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KeqiXudi.jpg
+　ルート：お気楽ターバン。召喚。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QonoYuji.jpg
+　チーズデッタ：見習い司教。わ、私も行くわよ。没落貴族。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KudePuru.jpg
+
+＃序章　ビジョン
+
+　善と悪。秩序と混沌。剣と魔法。
+　神々からすれば、人の形とは、そのようにみえる。
 
 
 　神々の寵愛受けたアルペイオス。
@@ -25,9 +32,6 @@
 　ここは千年都市アルペイオス。
 　神々への信仰により存続している国である。
 
-
-　ビキ：神女。アルペイオスの庶子。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BapoQaga.jpg
-　アナナン：ちびっこ戦士。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/TaboFune.jpg
-　ヒナゲシ：合いの手魔導。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KeqiXudi.jpg
-　ルート：お気楽ターバン。召喚。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QonoYuji.jpg
-　チーズデッタ：見習い司教。わ、私も行くわよ。没落貴族。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KudePuru.jpg
+「アナナンは、勇気は蛮勇だと思うのじゃ」
+「それ、ダメじゃない？」
+「わ、私も行くわよ。お金、報奨金とかでそうだし」
