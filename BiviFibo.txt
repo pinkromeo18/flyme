@@ -10,8 +10,9 @@
 
 
 　千年都市アルペイオス。
-　ビキ：今は無きアーチボルト家の血筋を引くもの。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BapoQaga.jpg
-　アナナン：戦士。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/TaboFune.jpg
+
+　ビキ：神女。今は無きアーチボルト家の血筋を引くもの。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BapoQaga.jpg
+　アナナン：ちびっこ戦士。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/TaboFune.jpg
 　ヒナゲシ：合いの手魔導。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KeqiXudi.jpg
-　ルート：お気楽召喚。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QonoYuji.jpg
+　ルート：お気楽ターバン。召喚。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QonoYuji.jpg
 　チーズデッタ：見習い司教。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KudePuru.jpg
