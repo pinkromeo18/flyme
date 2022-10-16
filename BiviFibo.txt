@@ -1,8 +1,6 @@
 ＃シップ・イン・ボトル
 
-
 　善と悪、秩序と混沌、剣と魔法。
-
 
 　ビキ：神女。アルペイオスの庶子。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BapoQaga.jpg
 　アナナン：ちびっこ戦士。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/TaboFune.jpg
@@ -15,6 +13,8 @@
 　善と悪。秩序と混沌。剣と魔法。
 　神々からすれば、人の形とは、そのようにみえる。
 
+
+　それは神々が見せたビジョン。告発である。
 
 　神々の寵愛受けたアルペイオス。
 　その建国から、つい五〇年ほど前までは、あらゆる王は建国王の血を引いていた。
