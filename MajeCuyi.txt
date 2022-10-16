@@ -131,8 +131,6 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HixiBewa.jpg
 
 ＃
 
-＃
-
 　何考えてるのかしら。
 　ジャコは、音楽を圧縮する術を考えた。
 　まず、調べると使えそうなのは、一二音階法である。
@@ -176,3 +174,6 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HixiBewa.jpg
 　Ｃ０、Ｃ３、Ｃ７、Ｃ８。
 「音源送りなさいよ。えっと、四かけるＡからＧだけ。二八？」
 「わかった、わかった、ギター演奏ちゃんな」
+
+＃
+
