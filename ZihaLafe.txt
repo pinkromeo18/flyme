@@ -1,8 +1,15 @@
 ＃宇宙卵の迷宮
 
-
 序文の絵画：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RotaQase.jpg
 白い翼を持った雄々しき獅子。その上に輝ける者いる。獅子が湛えるものは威厳そのものだ。：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WoxuRoxi.jpg
+
+
+　魔法について。
+　エメストエメスと唱えて発動させる。
+　祈れば神々が力を貸す。
+　それでも、冒険者は魔法体系として、ある程度、質の一定ある。
+　魔導、僧侶、錬金、召喚。この四つは確立された数と効果を持つ。
+　それ以外は、発動体に頼る。発動体は迷宮から取得できる遺物のひとつだ。
 
 ＃序文
 　
