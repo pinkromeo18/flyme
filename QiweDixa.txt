@@ -1,4 +1,4 @@
-＃ビルダーズ：眼下には神話の世界が広がる
+＃ビルダーズ：眼下には神話の世界が広がっている編
 
 マダラバシリ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RojoXise.jpg
 ダチュラ：異様に脚の長い神々。
