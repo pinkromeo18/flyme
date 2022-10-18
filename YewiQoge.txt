@@ -18,6 +18,9 @@
 
 　ビキ、アナナン、トカゲ、ヒナゲシ、スート、チーズクッデ。
 
+
+　コマンドは、アタック、パリィ、スキル、アイテム、エスケープ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VoluYahe.png
+
 ＃地上層　竜の巣の後で
 
 ＊竜の巣の話。
