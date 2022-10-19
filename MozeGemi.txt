@@ -3,7 +3,6 @@
 
 　見習い冒険者の指南役ロゼッタ。
 　
-
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QineZomo.jpg
 尖り耳を隠すサブリナ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KumePapi.png
 　エルフ。
@@ -20,3 +19,7 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QineZomo.jpg
 
 　魔力主義：魔物たちの支配のしくみ。強い者に従う。
 　権力主義：人間たちの支配のしくみ。権力に従う。権力は見えにくい。
+
+
+　盗賊のねぐら。
+　オーランの塔。
