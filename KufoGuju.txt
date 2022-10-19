@@ -2,12 +2,20 @@
 
 
 
+
+
+https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/ZigoYave.jpg
+ツンリイ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/XoqaSece.jpg
+スート：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RoviTici.jpg
+
+＃序章
+
+
 　大陸を区切る四つの魔力の防壁は、それぞれ条件を満たすことで、通過することができます。
 　条件は、装備を含めた能力値で、それが翼や騎乗物に反映されるので、いずれかを使って通過できます。なお、通過できない時は、魔力の壁からダメージを受け、弾かれてしまいます。
 　このゲームにはレベルが存在しません。
 　何億という組み合わせをもったアイテムと、強い相手を倒した時に得られる能力値の上昇によって、自身を強くすることができます。
 　なお、パートナーＮＰＣは、このゲームの水先案内役であり、名前化も分かる通り、ともに戦う仲間となります。プレイスタイルと合わせてお選びください。
-
 「一ヶ月無料のリュウコなのよさ」
 「一ヶ月無料のガオグウです」
 「わらわは三ヶ月五〇〇円じゃ」
@@ -17,8 +25,4 @@
 「今話したのは？」
 「私はツンリイよ、あなたお金もってるの？」
 「あるよ。ある」
-「一〇〇〇円あれば二〇〇円お釣りがついてくるの。お得よ」
-
-
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/ZigoYave.jpg
-ツンリイ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/XoqaSece.jpg
+「一〇〇〇円あればいまならお釣りが二〇〇円もついてくるの。お得よ」
