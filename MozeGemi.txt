@@ -1,18 +1,13 @@
-＃偉人たちの冒険譚
+＃アリアハン・クエスト
 
 　見習い冒険者の指南役ロゼッタ。
-　アリアハン・クエスト
+　
 
 
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QineZomo.jpg
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KumePapi.png
 
 
-　ゲームシステム。
-　街は、選択肢のみ。
-　迷宮は、ウィザードリィ式。
-　パーティーは四人。
-　食料の制限がある。一日でパンがひとつ減る。
 
 
 　わらわも、先見の明を持っておる。
@@ -25,4 +20,4 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KumePapi.png
 
 
 　魔力主義：魔物たちの支配のしくみ。強い者に従う。
-　領主主義：人間たちの支配のしくみ。領主に従う。
+　権力主義：人間たちの支配のしくみ。権力に従う。権力は見えにくい。
