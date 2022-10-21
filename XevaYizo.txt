@@ -1,7 +1,6 @@
-＃
+＃潰れたファミレスと開発室
 
-
-開発室：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BijeQafu.jpg
+潰れたファミレスと開発室：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BijeQafu.jpg
 
 バード：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/ZoyoKade.jpg
 
