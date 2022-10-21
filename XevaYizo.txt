@@ -1,12 +1,12 @@
 ＃
 
 
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/ZoyoKade.jpg
+開発室：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BijeQafu.jpg
 
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BijeQafu.jpg
+バード：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/ZoyoKade.jpg
 
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JuleRoco.png
+ハナさん：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JuleRoco.png
 
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KumePapi.png
+アナナン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KumePapi.png
 
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PedaYeba.jpg
+イアスカさん：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PedaYeba.jpg
