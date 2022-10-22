@@ -7,6 +7,7 @@
 ハナさん：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LikeGuqo.png
 シャイアー：英雄王に仕える女騎士、参謀のひとり。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SeroJina.png
 バンビーノン。左から魔導バン、槍使いビー、僧侶ノン。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DekuMupu.jpg
+僧侶ノン、君は回復魔法だけではなく、付与魔法も唱えられるはずだ。
 
 英雄国、東の沼地の迷宮：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PomuKuci.jpg
 
