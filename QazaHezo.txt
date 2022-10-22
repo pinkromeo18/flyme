@@ -1,5 +1,7 @@
 ＃バルドルフェイス
 
+https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VuzoWiko.png
+
 
 　ハイマン、エルフ、ドワーフ、ウーチラ、バーバリアン、獣人族、妖精族。
 　そして、バルドルだけは、少し特殊な種族としている。
@@ -25,8 +27,6 @@
 　グリーンアイズのような魔晶石を産出する大穴を所有する街は、世界に三つしか存在しない。他には、ブルーアイズとイエローアイズである。
 
 
-
-https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VuzoWiko.png
 
 　荷馬車が揺れる。
 「へえ、それでお嬢ちゃんは、なんでまた、ここに？」
