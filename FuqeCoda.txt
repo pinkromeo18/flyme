@@ -7,6 +7,9 @@
 ハナさん：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LikeGuqo.png
 シャイアー：英雄王に仕える女騎士、参謀のひとり。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SeroJina.png
 
+
+バンビーノン。左から魔導バン、槍使いビー、僧侶ノン。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DekuMupu.jpg
+
 ＃一幕
 
 　蜜蝋に羊皮紙。
@@ -108,3 +111,7 @@
 「ほら、僕らが大物を封印するとき、毎回そういう話し、したじゃないか。封印具があると楽だよねって」
 「ああ、まったく忙しくてな――」
 　それから、英雄王に仕える女騎士は、仲間の待つ冒険者の酒場を告げた。
+
+　冒険者として主に活躍するのは、ハイマン、エルフ、ドワーフである。
+　依頼の掲示は、冒険者の酒場にある。
+　ここは、金羊毛亭。
