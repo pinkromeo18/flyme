@@ -10,7 +10,7 @@
 　スフィンクスドールは、人面の合成獣の巣窟だ。
 
 「～してくりゃれ」
-
+　スフィンクスドール：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QuseDuxa.jpg
 　ゾンベル：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KevaName.jpg
 　わらわが王位継承権第一位。シャルロット・フィッツランド＝ドライオンじゃ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/XareCeca.png
 　玉座の間：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RojiRuju.png
@@ -362,3 +362,6 @@
 「うむ」
 　ピグマリオンの石ノミ、じゃ。
 　王女は、そう云って、話しを次に進めた。
+
+　目的：ピグマリオンの石ノミ、の探索
+　報酬：
