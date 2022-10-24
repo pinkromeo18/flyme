@@ -1,8 +1,6 @@
 ＃スフィンクスドール
 
-
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KumePapi.png
-
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RagaLuyu.png
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/XeteKilu.png
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YeraQuda.png
