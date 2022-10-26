@@ -1,7 +1,6 @@
-＃デュラハウント
+＃竜の巣に続く
 
-竜の巣に続く
-
+　デュラハウント
 
 　二足の竜、ワイバーン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QalaCijo.png
 　肉体と魂の分離と乙女：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FilePovi.jpg
