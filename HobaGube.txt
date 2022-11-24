@@ -1,9 +1,5 @@
-＃グリムソード
+＃豊玉家外遊
 
 
-　魔物と思しき者あり。
-
-
-
-イオ君。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VeroKove.jpg
-お嬢様。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YifeFuda.jpg
+　イオ君。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VeroKove.jpg
+　お嬢様。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YifeFuda.jpg
