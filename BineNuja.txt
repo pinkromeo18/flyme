@@ -1,4 +1,4 @@
-＃マンダの転移魔法あるいはスローライフ冒険譚
+＃マンダの転移魔法あるいはスローライフ冒険譚　小田土デアル
 
 片道転移魔法の戦士マンダ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WaqoTozu.png
 梟面の忍者ギンナン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/MiliQone.jpg
@@ -6,4 +6,11 @@
 たくわん眉の巫人モナカ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/NamaJaxe.jpg
 兎耳族の魔導リリーチェ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FeqaWuki.png
 骸骨飾りの召喚ハインさま：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FaviNaki.jpg
-ほぼ鑑定士の司教グリーン：氏https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GemeMevo.jpg
+ほぼ鑑定役の司教グリーン氏：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GemeMevo.jpg
+
+
+話のテンプレート
+１．予告（最後に書けば良い）
+２．マンダあるいは世界観について「さて、こんな話である。」
+３．マンダが冒険者の酒場にいるとき、馴染みがやってくる。～を探しに行こう。「ほう」依頼の価格交渉。「拠点都市ドレックノーツ――。マンダは冒険者の酒場でお気にの蜂蜜ジンジャーを飲んでいた。そこにお誘いが来たのである。」
+４．君たちは迷宮にやってきた。ここは、～の迷宮。
