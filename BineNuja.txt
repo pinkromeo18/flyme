@@ -1,4 +1,6 @@
-＃マンダの転移魔法あるいはスローライフ冒険譚　小田土デアル
+＃ロイヤルスイート冒険譚あるいはウィズ系　小田土デアル
+
+　マンダの転移魔法あるいはスローライフ冒険譚　小田土デアル
 
 片道転移魔法の戦士マンダ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WaqoTozu.png
 梟面の忍者ギンナン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/MiliQone.jpg
