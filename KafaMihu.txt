@@ -1,4 +1,4 @@
-＃迷宮のビステ：ビーストテイマーっ娘と召喚物ハイバネの冒険　小田土デアル
+＃迷宮のビステ：ビーストテイマーの小娘と召喚物ハイバネの冒険　小田土デアル
 
 ビステとハイバネ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FadaTili.png
 
