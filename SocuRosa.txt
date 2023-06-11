@@ -4,10 +4,11 @@
 元傭兵のレオニール：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GikuLuqo.jpg
 面倒な女ニッカ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VafuPodo.jpg
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DaboPuki.jpg
+女主人ウルスラ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BodaCoki.jpg
 
 歓楽都市ザナドゥ
-　酒場：依頼の情報や冒険者たちとの交流の場。主人はゲッコー。肥えたゴブリンに似ている。口は悪いが敵を作らない主義のようで羽振りは良い。
-　娼館：ウルスラの営む娼館。貴族たちの依頼も斡旋している。
+　酒場：依頼の情報や冒険者たちとの交流の場。主はローズマン。肥えたゴブリン似。名前からは想像もできないくらい醜い。口は悪いが敵を作らない主義のようで羽振りは良い。
+　娼館：女主人ウルスラの営む娼館。貴族たちの依頼も斡旋している。レオニールは高額な依頼はここから受けている。
 　商店：レオニールが懇意にしている商店。最後の良心店。売値と買値が同じという奇抜さが売り。立地は悪い。
 　迷宮：ザナドゥの迷宮。一部階層が可変層となっている。さまざまな魔法の品を産出し、歓楽都市に富をもたらしている。
 
