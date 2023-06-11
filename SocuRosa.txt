@@ -1,7 +1,7 @@
 ＃DoX1：Dungeon of Xanadu 1　小田土デアル
 
 狙われの予知者レム：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FoboBata.jpg
-元傭兵のレオニール：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GikuLuqo.jpg
+元傭兵レオニール：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GikuLuqo.jpg
 面倒な女ニッカ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VafuPodo.jpg
 酒場の主人ローズマン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DaboPuki.jpg
 女主人ウルスラ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BodaCoki.jpg
