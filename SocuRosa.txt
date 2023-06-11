@@ -5,11 +5,13 @@
 面倒な女ニッカ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VafuPodo.jpg
 酒場の主人ローズマン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DaboPuki.jpg
 女主人ウルスラ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BodaCoki.jpg
+歓楽都市ザナドゥ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GuxoLomu.jpg
 
 歓楽都市ザナドゥ
 　酒場：依頼の情報や冒険者たちとの交流の場。主はローズマン。肥えたゴブリン似。名前からは想像もできないくらい醜い。口は悪いが敵を作らない主義のようで羽振りは良い。
 　娼館：女主人ウルスラの営む娼館。貴族たちの依頼も斡旋している。レオニールは高額な依頼はここから受けている。
 　商店：レオニールが懇意にしている商店。最後の良心店。売値と買値が同じという奇抜さが売り。立地は悪い。
+　貴族街：一段高い階段の先に上流階級の者たちの住まいがある。往来は自由であるが、私兵がひっきりなしに警戒している。
 　迷宮：ザナドゥの迷宮。一部階層が可変層となっている。さまざまな魔法の品を産出し、歓楽都市に富をもたらしている。
 
 
