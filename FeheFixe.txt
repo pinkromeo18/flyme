@@ -6,7 +6,7 @@
 細目のギンマル：株式会社ハザンの社長。うち。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LuhaVuca.jpg
 板垣カエル：本名板垣スバル。人柄採用とか、能力度外視の社会風潮に、はぶられた俺。なんとか念願のゲーム開発会社に就職。なんだよ人柄って。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HolaLuhi.jpg
 おたくレイカ：「カエル、やるな」「カエル、下マツゲ長え」ただのプログラムマニア。四八時間耐久スクラッチとか余裕でする、程度を知らないおたく。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PixoCixa.jpg
-おっとりレイカ：「カエル君ってメガネ男子なのね」ギンマル社長の娘。人生の勝ち組だと思っているので二〇を過ぎても恋愛優先主義。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PomaXehu.jpg
+おっとりレイカ：「夜分ごめんなさいね」「カエル君ってメガネ男子なのね」ギンマル社長の娘。人生の勝ち組だと思っているので二〇を過ぎても恋愛優先主義。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PomaXehu.jpg
 お気張りレイカ：「ねえ。スバル。私たち」頑張るのはいいが、ストレスを貯めて面倒な女になる方のレイカ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DidiHuci.jpg
 
 「運命かも」
@@ -76,7 +76,7 @@
 　肝心なところを、応えるのを忘れていた。
 「いや、なんとなくならいいんだ」
 「いえ――」
-　不覚にもどもりながら、下の名前で呼ばれたから、と応えた。
+　不覚にも、どもりながら、下の名前で呼ばれたから、と応えた。
 「うん。ありがとう」
 「ありがとうございました」
 「連絡がなかったら、ご縁がなかったってことでね」
