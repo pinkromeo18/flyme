@@ -1,8 +1,8 @@
-＃雑談ラノベ：ゲーム作ってる
-
+＃ＡＩデザ：ゲーム作ってる
+　雑談ラノベ。
 　板垣カエル。本名板垣スバル：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JasoDuhe.jpg
 　有栖川モモ。本名不明：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PiyuJuze.jpg
-　菊川コネミ。本名菊川レイカ。社長の娘。コネ入社：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VefoTopi.jpg
+　菊川コネミ。本名菊川レイカ。社長の娘。コネ入社。猫役：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VefoTopi.jpg
 
 　株式会社ハザン。
 　ゲーム会社であるが、代表作はゲームではない。
@@ -10,6 +10,7 @@
 　二次元のキャクターを三次元で作り上げる、セミオートキャラクターメイキングアプリである。
 　セミオートと付けられているのは、自動生成ボタンが、まずひとつあるからである。これを使えば三秒。一発である。
 　はじめこそ、このボタンしかなかったが、ＡＩデザはバージョンを重ねるごとに、細部を調整できるようになり、いまや、男から女、ジト目からヤンデレ、キレイなお姉さん、美しく年齢を重ねたおば様まで可能である。
+　つまり脇役から主役まで生成可能。
 　もう女性の肉感から、男性の筋肉まで、ほぼ二次元の絵にしか見えない。
 　その資金を携えて。
 　ようやく、株式会社ハザンは、ゲーム開発を始めたのである。
