@@ -1,7 +1,7 @@
 ＃三礼華
 
 細めのギンマル：株式会社ハザンの社長。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LuhaVuca.jpg
-板垣カエル：本名板垣スバル。人柄採用とか、能力度外視の社会風潮にはぶられた俺。なんとか念願のゲーム開発会社に就職。なんだよ人柄って。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HolaLuhi.jpg
+板垣カエル：本名板垣スバル。人柄採用とか、能力度外視の社会風潮に、はぶられた俺。なんとか念願のゲーム開発会社に就職。なんだよ人柄って。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HolaLuhi.jpg
 おたくレイカ：ただのプログラムマニア。四八時間耐久スクラッチとか余裕でする、程度を知らないおたく。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PixoCixa.jpg
 おっとりレイカ：ギンマル社長の娘。人生の勝ち組だと思っているので二〇を過ぎても恋愛優先主義。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PomaXehu.jpg
 がんばりレイカ：頑張るのはいいが、ストレスを貯めて面倒な女になる方のレイカ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DidiHuci.jpg
