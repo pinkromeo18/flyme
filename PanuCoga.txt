@@ -1,4 +1,5 @@
-＃ウィズフリークがウィズを作ること或いはその闘争　小田土デアル
+＃ここはゲーム開発会社ボルタックの一室　小田土デアル
+　ウィズフリークがウィズを作ること或いはその闘争　小田土デアル
 
 　マゴル：開発リーダー。下っ端魔王似。ウィズ好き。どことなくドット絵な造形。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/NufeNovi.jpg
 　ニルダ：開発の進行管理。リリムっぽい。銀髪美人。口ごたえ大好き。それなりに常識な感性を持つ。バレエ歴一五年のスポ根少女。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SosuJeqo.jpg
