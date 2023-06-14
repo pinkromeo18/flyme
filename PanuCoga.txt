@@ -1,9 +1,9 @@
 ＃ここはゲーム開発会社ボルタックの一室　小田土デアル
 　ウィズフリークがウィズを作ること或いはその闘争　小田土デアル
 
-　ニルダ：語り部。開発の進行管理。リリムっぽい。銀髪美人。口ごたえ大好き。それなりに常識な感性を持つ。バレエ歴一五年のスポ根少女。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SosuJeqo.jpg
-　マゴル：開発リーダー。下っ端魔王似。ウィズ好き。どことなくドット絵な造形。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/NufeNovi.jpg
-　センバラ：有名な魔物絵師。しかし仕事する気なし。女好き。クリエイションが嫌い。想像の種（主に文字列）がないと仕事しない。下の名前はキョウジ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SasaJawu.jpg
+　ニルダ：語り部。開発の進行管理。リリムっぽいらしい。銀髪美人。口ごたえ大好き。それなりに常識な感性を持つ。バレエ歴一五年のスポ根女。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SosuJeqo.jpg
+　マゴル先輩：開発リーダー。下っ端魔王似。ウィズ好き。どことなくドット絵な造形。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/NufeNovi.jpg
+　センバラ君：有名な魔物絵師。しかし仕事する気なし。女好き。クリエイションが嫌い。想像の種（主に文字列）がないと仕事しない。下の名前はキョウジ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SasaJawu.jpg
 　ジャコ：通称ヘビ娘。目が蛇に似る。メインプログラマ。基本なんでもできる。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GeraVoqe.jpg
 
 　起：適当な会話から。主にウィズ系。
@@ -12,3 +12,20 @@
 　結：グワーッとできる。
 
 ＃ボルタック
+
+「お前、俺ちゃんの進行管理な」
+　そう頼まれたのは、つい先日。
+　俺ちゃんというのは、マゴル先輩。下っ端の魔王似。
+「進行管理って何をするんですか？」
+　私は当然のことながら、初めてのロールについて聞きましたよ。
+「進行管理って。雑用だよ」
+　いきなり、ぼかしてきた。
+「雑用は慣れてるんですけど、もう少し具体的に」
+「えっ？　あー、んー」
+　マゴル先輩は、ドット絵風の口をあけながら考えます。
+　たぶん。考えていると思われる。
+「俺ちゃんが、開発リーダーだろ」
+「ほう」
+
+
+　私。ニルダ。語り部。開発の進行管理。リリムっぽいらしい。銀髪美人。口ごたえ大好き。それなりに常識的な感性を持っている。バレエ歴一五年のスポ根女。
