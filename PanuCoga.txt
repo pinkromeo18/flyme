@@ -3,7 +3,7 @@
 
 　ニルダ：語り部。開発の進行管理。リリムっぽい。銀髪美人。口ごたえ大好き。それなりに常識な感性を持つ。バレエ歴一五年のスポ根少女。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SosuJeqo.jpg
 　マゴル：開発リーダー。下っ端魔王似。ウィズ好き。どことなくドット絵な造形。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/NufeNovi.jpg
-　センバラ：有名な魔物絵師。しかし仕事する気なし。女好き。クリエイションが嫌い。想像の種（主に文字列）がないと仕事しない。下の名前はキョウジ。
+　センバラ：有名な魔物絵師。しかし仕事する気なし。女好き。クリエイションが嫌い。想像の種（主に文字列）がないと仕事しない。下の名前はキョウジ。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SasaJawu.jpg
 　ジャコ：通称ヘビ娘。目が蛇に似る。メインプログラマ。基本なんでもできる。https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GeraVoqe.jpg
 
 　起：適当な会話から。主にウィズ系。
