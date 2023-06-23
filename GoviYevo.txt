@@ -8,7 +8,7 @@
 　キャラクターはわかりやすく。
 
 隻眼の騎士ランスロット「よし、ではいこうか」：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WihuPeju.jpg
-生真面目銀髪のフルートランス「はい」：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LudoBuro.jpg
+生真面目銀髪フルートランス「はい」：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LudoBuro.jpg
 日銭魔導ピチーチ「じゃないの？」：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FediKeto.jpg
 自称海賊王オズボーン「っていうわけだがよお」：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GuboSini.jpg
 赤い胸のプレイジー「あんた」：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VoboViva.jpg
