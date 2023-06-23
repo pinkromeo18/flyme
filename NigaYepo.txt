@@ -1,8 +1,9 @@
 ＃オズボーン様の冒険譚
 
 自称海賊王オズボーン様：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/NobaQeni.jpg
-赤い胸のジーナ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/ZahoWego.jpg
-日雇い魔導ピチーチ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JaqiLisa.jpg
+赤胸黒衣ジーナ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/ZahoWego.jpg
+日暮魔導ピチーチ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JaqiLisa.jpg
+甲冑人形エーデルワイス：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KiboYeza.png
 堅物神女システィナクリス：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/TopeBocu.jpg
 
 　自称海賊王のオズボーン様。
@@ -19,14 +20,14 @@
 ＊状況の整理と解決
 ＊ボスとの活劇
 
-　序章　小さな冒険譚と君たちオズボーン様一行。
-　一章
-　二章
-　三章
-　四章　神女システィナクリス
-　五章
-　六章
-　七章
-　終章
+　序章　自称海賊王オズボーン様
+　一章　日暮魔導ピチーチ
+　二章　赤胸黒衣ジーナ
+　三章　甲冑人形エーデルワイス
+　四章　堅物神女システィナクリス
+　五章　力天使
+　六章　堕天使
+　七章　財宝竜
+　終章　宝冠
 
 ＃
