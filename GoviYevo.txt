@@ -1,7 +1,12 @@
 ＃サージェントウィザードリ
 
 
+　暗黒騎士団
+　解放軍
+　王国
+　東の帝国
 
+隻眼の騎士ランスロット：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WihuPeju.jpg
 赤い胸のプレイジー：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VoboViva.jpg
 銀髪のフルートランス：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LudoBuro.jpg
 異国装束のキク：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RoyiDefe.png
