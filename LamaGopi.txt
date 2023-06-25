@@ -5,7 +5,9 @@
 開発リーダー、俺ちゃん戦士アカゲ：「俺ちゃん」https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DateQawi.jpg
 開発責任者、鉄乙女のビキ：「正気か」https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BapoQaga.jpg
 
-＃序章　さて、本当に、ウィズをやるのか？
+　問題の提示にそって、物語を進める。
+
+＃一幕　「さて、本当に、ウィズをやるのか？」について
 
 　ここは、合同会社ハトホル。
 　潰れたファミレス二階に構えるゲーム開発会社。
