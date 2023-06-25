@@ -16,3 +16,24 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KosiNidi.png
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YujaNivi.png
 
 ＃目次
+　０１　忍者
+　０２　戦士
+　０３　僧侶
+　０４　聖騎士
+　０５　学者
+　０６　風水師
+　０７　幻術士
+　０８　吟遊詩人
+　０９　魔物使い
+　１０　魔人
+　１１　魔導
+　１２　赤剣士
+　１３　盗賊
+　１４　狩人
+　１５　角海賊
+　１６　竜騎士
+　１７　暗黒騎士
+　１８　司教
+　１９　魔界幻士
+　２０　賢者
+　２１　闘士
