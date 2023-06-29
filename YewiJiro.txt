@@ -4,6 +4,7 @@
 アリス：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KosaNoye.jpg
 ユサ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DewoLina.jpg
 
+＃００１
 
 「作家が、わがまま云わないで、誰がわがまま云うのよ」
 「まあ、普通に考えたら、クライアントだよね」
@@ -39,3 +40,6 @@
 「まあ、週一だからね。一緒に外食行こう」
 「ユサ。愛情は牛丼やピザじゃないの。三品以上から愛情なのよ？」
 「もちろんさ。ファミレスでいくらでも食べていいよ」
+　ユサは、盛るに盛った。
+　できるだけ小さな苦労を上手く選んで、である。
+　そうして、飽和させて、外堀を埋めたのである。
