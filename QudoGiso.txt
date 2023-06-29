@@ -1,10 +1,5 @@
 ＃ストレングス　小田土デアル
 
-　開発責任者：ビキ
-　開発リーダー：アカゲ
-　脚本：アリス
-　シナリオ：ルシーナ・ルッキーナ・シルベリウス
-　プログラム：ジャコ
-　美術色彩：イアスカ
+　開発指揮：アリス：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DosiQipu.jpg
 
-　ガネンシャの屋上。八階のその上。最上階の風は強い。
+　プログラマ：ニノ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SazeRehe.jpg
