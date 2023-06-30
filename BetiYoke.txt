@@ -1,10 +1,7 @@
 ＃生ける天才のパヴァーヌ　小田土シン
 
 
-シャン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YahoQiku.png
-サツマ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BapaSuyu.png
-
-
+シャンシャン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YahoQiku.png
 ナユタ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/MuraPibe.jpg
 ナツメ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SaceYovu.jpg
 
@@ -15,4 +12,5 @@
 「今」
 「いつデレるの？」
 「既にデレてるけど？」
-「もう少し頑張ろうよ」
+「もう少しはっきり主張しようよ」
+「うわ。ダメ出しだし」
