@@ -3,3 +3,7 @@
 
 シャン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YahoQiku.png
 サツマ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BapaSuyu.png
+
+
+ナユタ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/MuraPibe.jpg
+ナツメ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SaceYovu.jpg
