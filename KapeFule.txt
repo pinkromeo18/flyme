@@ -1,5 +1,6 @@
-＃シタベロ　小田土メロン
+＃ナスカンあるいはアイカギ　小田土メロン
 
+　恋愛シミュレーションぽく。
 
 カンミン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YinaZuta.png
 紫の貴公子：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SivoXidu.jpg
