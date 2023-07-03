@@ -1,5 +1,6 @@
-＃ナスカンあるいはアイカギ　小田土メロン　　　　
+＃ナスカン　小田土メロン　　　　
 
+　あるいはアイカギ。
 　恋愛シミュレーションぽく。
 
 カンミン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YinaZuta.png
