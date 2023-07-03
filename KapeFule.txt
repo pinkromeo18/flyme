@@ -1,5 +1,5 @@
-＃初心グラフティ　小田土メロン
+＃シタベロ　小田土メロン
 
 
 カンミン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YinaZuta.png
-ユサ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SivoXidu.jpg
+紫の貴公子：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SivoXidu.jpg
