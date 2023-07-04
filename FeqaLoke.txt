@@ -1,6 +1,5 @@
 ＃幻想世界に王道の迷宮探索物語を　小田土デアル　
 
-
 ヨルムンガルド：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/FetiCaja.jpg
 ウルスラ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RatoPuni.jpg
 
@@ -25,4 +24,8 @@
 　ヨルムンは応えた。
 　落ち着いた服装の、いかにも冷静で、知的な声の持ち主である。
 「そうか。よし、ついてこい。階段を登った丁度そこに、導者の像がある」
-　ウルスラに連れられ、ヨルムンは、魔導院に入っていた。
+　ウルスラに連れられ、ヨルムンは、魔物院に入っていた。
+
+　魔物院あるいは魔物の檻。
+　世界中の魔物を収集する機関である。
+　収集する理由は、研究、調査、報告。あるいは、対応。
