@@ -5,6 +5,7 @@
 ヨルムン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SaheVumi.png
 モツ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/CujuFofi.png
 アイメンのタイトルコール：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RabiSemi.jpg
+チョロイン判定された乙女：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SohaVufi.jpg
 
 ＃００１
 
@@ -107,3 +108,5 @@
 　なんだか、面白くないので、英語に戻した。
 　そうして、モツはタイトルに戻り、スタートボタンを押したのである。
 「コンパイル！」
+
+　オープニングがディスプレイに現れる。
