@@ -3,7 +3,7 @@
 　アンゼリカ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KaheSihe.png
 　鈴のついた美少年：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/LoyuPude.png
 
-＃００１
+＃００１　ママとパパと工房について
 
 　王立士官学校から帰ってきた私に、ママは云いました。
 「あんた、アタイに似て、こんなに器用になっちまって」
@@ -120,3 +120,5 @@
 
 　これ見よがしに笑顔で、ごまかされました。
 　格好いい！
+
+＃００２　鑑定
