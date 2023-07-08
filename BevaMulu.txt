@@ -1,8 +1,10 @@
-＃薔薇独眼聖女エウレカ　織田マフウ　　　　
+＃薔薇独眼、聖女エウレカ　織田マフウ　　　　
 
 
 パターン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DisoTapu.jpg
 薔薇独眼聖女エウレカ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JegoKubu.png
+
+　薔薇独眼、聖女、エウレカ。お忍びの冒険者。
 
 ＃目次
 　第一部　仲間
