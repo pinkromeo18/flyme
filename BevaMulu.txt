@@ -1,0 +1,18 @@
+＃薔薇独眼娘エーリカの冒険譚　織田マフウ　　　　
+
+
+パターン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/DisoTapu.jpg
+薔薇独眼娘エーリカ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/JegoKubu.png
+
+＃目次
+　第一部　仲間
+　００１
+　００２
+　００３
+　００４
+　００５
+　００６
+　第二部　財宝守
+　００１
+　００２
+　００３
