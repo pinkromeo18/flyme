@@ -1,7 +1,7 @@
 ＃オニオンナイト迷宮譚　たまねぎ剣士
 
-　オニオン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WutaBiwu.jpg
-　カンミン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KutiHiva.png
+　戦士系三級冒険者たまねぎ頭のオニオン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WutaBiwu.jpg
+　召喚系見習い冒険者十字眼のカンミン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/KutiHiva.png
 
 
 ＊予　語り。ゲームシステムについて。
