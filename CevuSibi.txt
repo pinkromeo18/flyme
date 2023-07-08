@@ -1,6 +1,8 @@
 ＃ダンジョンプリエステス　織田マフウ
 　
 
+パターン：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/MekeXubo.jpg
+
 聖女アンゼリカまたの名を冒険者エウレカ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/WumiNulo.png
 
 
