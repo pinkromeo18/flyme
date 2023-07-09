@@ -1,4 +1,6 @@
-＃ＰＳエリクシアグレーテル　小田土デアル
+＃ＰＳグレーテル　小田土デアル
 
 
-エリクシアグレーテル：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HebiJipo.png
+グレーテル：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/HebiJipo.png
+
+　王都の士官学校に通っている。
