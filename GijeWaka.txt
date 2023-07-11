@@ -1,0 +1,7 @@
+＃ゲームマニアクス　小田土デアル
+
+
+
+リーメイ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/RujuRuwi.png
+キンメイ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VofoWeru.png
+ガンメイ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YizeToci.png
