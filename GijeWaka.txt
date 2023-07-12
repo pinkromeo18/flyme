@@ -1,4 +1,4 @@
-＃ゲームマニアクス　小田土デアル
+＃王道ゲームの設定作ってるマニアクス　小田土デアル
 
 
 ナルカナちゃん、クロバラ、モナカ、シャネル。
@@ -7,6 +7,7 @@
 キンメイ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/VofoWeru.png
 ガンメイ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/YizeToci.png
 レオニール様：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/ZiyeLama.png
+
 
 ＊三人のメイド？
 「それ名前は？」
@@ -81,3 +82,11 @@
 「いや、男にも女にも、いい感じのにするからね」
 「では、選択の自由ということで、吸血スキルを実装しましょう」
 　三人は、オーと声を上げた。
+
+＊魔物を狩る理由？
+「えーと」
+　ご主人様は、
+
+
+
+「いわゆる、どんな寸胴でも、レオニール様に吸われてしまったら、きゅっと締まる感じですね」
