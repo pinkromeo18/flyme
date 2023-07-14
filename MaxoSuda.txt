@@ -1,5 +1,10 @@
 ＃ファイアホース　小田土デアル
 
+テア：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/GijiDego.jpg
+スルト：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/BeceVoco.jpg
+メロウ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/ZutoDuka.jpg
+
+
 　冒険者職。
 　戦士。ウォーリア。大剣、斧、盾に剣の前衛冒険者。
 　剣士。スレイヤー。双剣、槍、盾に剣の前衛冒険者。
