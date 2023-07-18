@@ -1,10 +1,11 @@
 ＃さよならピテカン　小田土デアル　　　
 
+　コンセプト、世紀末シュール。
+　マシロとピテカンのやわらかい物語。
 
 https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/MaxoFezo.png
 
-
-　マシロとピテカンの物語。
+　
 
 
 「マシロ。靴下の色、濃すぎない？」
@@ -26,3 +27,6 @@ https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/MaxoFezo.png
 「――うん」
 　なんか。
 　つかれちゃったな。
+
+　これは私とピテカンのやわらかい物語。
+　あるいは、世紀末シュール。
