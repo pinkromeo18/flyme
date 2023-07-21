@@ -1,8 +1,6 @@
 ＃ノアスチルの迷宮クエスト　小田土デアル　　　　
 
-
 　ノアスチルについては、説明しない。
-
 　ノアスチル：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/TubaRihe.png
 
 　エポックメイキング。
