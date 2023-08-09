@@ -1,4 +1,4 @@
-＃合言葉はソル・ジ・アーク　小田土デアル　　　　
+＃崇め讃えよ、ソル・ジ・アーク　小田土デアル　　　　
 
 　巨人の大陸：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/SucuSene.jpg
 
@@ -8,6 +8,7 @@
 　盗賊ネリコ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/PazuGatu.jpg
 　看板娘キンメイ：https://raw.githubusercontent.com/pinkromeo18/flyme/main/img/QatiPoma.png
 
+　方針。独白調で、冒険者の日々を綴る。
 
 　元宮廷魔道師の今商人。芋男爵のドルフ。
 　中堅戦士オリオン。なんとか生きてる冒険者。金髪好きのオリオン。
